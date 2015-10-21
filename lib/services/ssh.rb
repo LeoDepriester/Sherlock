@@ -44,7 +44,6 @@ class Services::SSH
     menu  = "== OPTIONS ==\n"
     menu << "fd     <21-10-2015-07:28:00>  => Analyse logs from this date\n"
     menu << "td     <22-10-2015-00:00:00>  => Analyse logs to this date\n"
-    menu << "export yes|no                 => Do you want export results to CSV\n"
     return menu
   end
 
@@ -70,6 +69,7 @@ class Services::SSH
   """ < CORE PART > """
   # Return all connections and disconnections
   def getConnections
+    results = ""
     @log_files.each do |file|
       counter = 0
       file = File.new(file, "r")
@@ -82,29 +82,31 @@ class Services::SSH
             # User connection
             if(line =~ /Accepted password/)
               data = line.match(/^([a-zA-Z]{3} [0-9]{1,2}) ([0-9]{2}:[0-9]{1,2}:[0-9]{1,2}) .* for (.*) from ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/)
-              puts "Type : Connection"
-              puts "Date : #{data[1]}"
-              puts "Hour : #{data[2]}"
-              puts "User : #{data[3]}"
-              puts "IP   : #{data[4]}"
-              puts "Line : #{line}"
-              puts ""
+              results << "Type : Connection\n"
+              results << "Date : #{data[1]}\n"
+              results << "Hour : #{data[2]}\n"
+              results << "User : #{data[3]}\n"
+              results << "IP   : #{data[4]}\n"
+              results << "Line : #{line}\n"
 
             elsif(line =~ /Received disconnect/)
               data = line.match(/^([a-zA-Z]{3} [0-9]{1,2}) ([0-9]{2}:[0-9]{1,2}:[0-9]{1,2}) .* from ([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})/)
-              puts "Type : Disconnect"
-              puts "Date : #{data[1]}"
-              puts "Hour : #{data[2]}"
-              puts "IP   : #{data[3]}"
-              puts "Line : #{line}"
-              puts ""
+              results << "Type : Disconnect\n"
+              results << "Date : #{data[1]}\n"
+              results << "Hour : #{data[2]}\n"
+              results << "IP   : #{data[3]}\n"
+              results << "Line : #{line}\n"
             end
           end
           counter = counter + 1
         end
-        end
-        file.close
       end
+      file.close
+    end
+    if results == ""
+      results = "[*] No result."
+    end
+    return results
   end
   """ </ CORE PART > """
 

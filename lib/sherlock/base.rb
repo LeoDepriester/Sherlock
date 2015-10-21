@@ -3,10 +3,10 @@ require_relative "../services"
 class Sherlock::Base
   def initialize
     @ssh     = Services::SSH.new
-    # => @apache2 = Services::Apache2.new
+    @apache2 = Services::Apache2.new
 
     @service = nil
-    @services = {"ssh" => @ssh}
+    @services = {"ssh" => @ssh, "apache2" => @apache2}
     @console = Sherlock::Console.new
   end
 
@@ -15,7 +15,7 @@ class Sherlock::Base
     if @service == nil
       @console.showError("run", "no_service")
     else
-      @services[@service].run(function)
+      @console.show(@services[@service].run(function))
     end
   end
 
