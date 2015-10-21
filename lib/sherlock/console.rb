@@ -1,10 +1,9 @@
-class Console
+class Sherlock::Console
   def initialize
-    @service = ""
   end
 
-  def showPrompt
-    return "#{@service}> "
+  def showPrompt(service)
+    return "#{service}> "
   end
 
   def setService(service)
@@ -17,15 +16,20 @@ class Console
 
   def showError(command, error)
     case command
+    when "service"
+      case error
+      when "not_available"
+        puts "[-] This service doesn't exist."
+      end
     when "options"
       case error
       when "no_service"
-        return "[-] Set service before."
+        puts "[-] Set service before."
       else
-        return "[-] Undefined error."
+        puts "[-] Undefined error."
       end
     else
-      return "[-] Undefined error"
+      puts "[-] Undefined error"
     end
   end
 end

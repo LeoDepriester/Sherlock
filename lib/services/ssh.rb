@@ -1,16 +1,15 @@
-#!/usr/bin/env ruby
-
 require 'csv'
 require 'time'
 require 'date'
 
-module SSH
+class Services::SSH
+  def initialize
+    @log_files = Dir["dev/logs/auth.log*"]
+    @options = ["fd", "td"]
+  end
 
-  @@log_files = Dir["dev/logs/auth.log*"]
-  @@options   = ["fd <argument>  => Analyse logs from this date/time (Ex : fd 21-10-2015-07:28:00)",
-                 "td <argument>  => Analyse logs to this date/time (Ex : td 22-10-2015-00:00:00)"]
   def getOptions
-    return @@log_files
+    return @options
   end
 
   def getConnections

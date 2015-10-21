@@ -5,7 +5,7 @@ end
 
 $:.unshift(File.expand_path(File.join(File.dirname(sb), '')))
 
-module Sherlock
-  autoload :Base, 'sherlock/base'
-  autoload :Console, 'sherlock/console'
+module Services
+  autoload :SSH, 'services/ssh'
+  autoload :Apache2, 'services/apache2'
 end

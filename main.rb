@@ -16,10 +16,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
 require 'optparse'
-require 'require_all'
-require_all 'lib/sherlock'
+require_relative "lib/sherlock"
 
-sherlock = Base.new
+sherlock = Sherlock::Base.new
 
 command = [""]
 while command[0] != "quit"
@@ -36,6 +35,8 @@ while command[0] != "quit"
     if command.length == 3
       if command[1] == "service"
         sherlock.setService(command[2])
+      else
+        sherlock.setOption(command[1], command[2])
       end
     else
       puts "No enought arguments"
@@ -43,11 +44,11 @@ while command[0] != "quit"
   when "show"
     if command.length == 2
       if command[1] == "options"
-        puts sherlock.availablesOptions
+        sherlock.availablesOptions
       end
     end
   when "back"
-    sherlock.setService(nil)
+    sherlock.back
   when "services"
     sherlock.listServices
   when "quit"
