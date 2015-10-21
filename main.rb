@@ -44,9 +44,15 @@ while command[0] != "quit"
   when "show"
     if command.length == 2
       if command[1] == "options"
+        sherlock.options
+      end
+    elsif command.length == 3
+      if command[1] == "options" && command[2] == "service"
         sherlock.availablesOptions
       end
     end
+  when "run"
+    sherlock.run
   when "back"
     sherlock.back
   when "services"

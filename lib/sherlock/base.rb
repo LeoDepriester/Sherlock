@@ -8,17 +8,29 @@ class Sherlock::Base
     @service = nil
     @services = {"ssh" => @ssh}
     @console = Sherlock::Console.new
-    @options = {}
+    @options = Hash.new
+  end
+
+  def run
+    if @service == nil
+      @console.showError("run", "no_service")
+    else
+      @services[@service].run(@options)
+    end
   end
 
   def prompt
     return @console.showPrompt(@service)
   end
 
+  def options
+    @console.showRegisteredOptions(@options)
+  end
+
   def setService(service)
     if @services.include? service
       @service = service
-      @options = @services[service].getOptions
+      @options = @services[@service].getOptions
     else
       @console.showError("service", "not_available")
     end
@@ -32,18 +44,20 @@ class Sherlock::Base
   def availablesOptions
     if @service == nil
       @console.showError("options", "no_service")
-    elsif @service == "ssh"
-      puts @ssh.getOptions
-      @console.showOptions(@ssh.getOptions)
+    else
+      @console.show(@services[@service].optionsMenu)
     end
   end
 
-  def setOptions(option, argument)
+  def setOption(option, argument)
     if @service == nil
-      return @console.showError("options", "no_service")
-    elsif @service == "ssh"
-      @ssh.check
-
+      @console.showError("options", "no_service")
+    else
+      if @services[@service].checkOption(option, argument)
+        @options[option] = argument
+      else
+        @console.showError("options", "bad_option")
+      end
     end
   end
 

@@ -5,11 +5,15 @@ require 'date'
 class Services::SSH
   def initialize
     @log_files = Dir["dev/logs/auth.log*"]
-    @options = ["fd", "td"]
+    @options = {"fd" => Time.now.strftime("%d-%m-%Y-%T"), "td" => Time.now.strftime("%d-%m-%Y-%T"), "export" => "No "}
   end
 
   def getOptions
     return @options
+  end
+
+  def run
+
   end
 
   def getConnections
@@ -73,5 +77,22 @@ class Services::SSH
     data = date.match(/^([0-9]{2})-([0-9]{2})-([0-9]{4})-([0-9]{2}):([0-9]{2}):([0-9]{2})$/)
     date = {:day => data[1].to_i, :month => data[2].to_i, :year => data[3].to_i, :hour => data[4].to_i, :min => data[5].to_i, :sec => data[6].to_i}
     return date
+  end
+
+
+  def optionsMenu
+    menu  = "== OPTIONS ==\n"
+    menu << "fd     <21-10-2015-07:28:00>  => Analyse logs from this date\n"
+    menu << "td     <22-10-2015-00:00:00>  => Analyse logs to this date\n"
+    menu << "export yes|no                 => Do you want export results to CSV\n"
+    return menu
+  end
+
+  def checkOption(option, argument)
+    if @options.include? option
+      return true
+    else
+      return false
+    end
   end
 end
