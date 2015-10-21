@@ -9,10 +9,56 @@ class Services::SSH
     @functions = ["connections"]
   end
 
+  """ < OPTIONS PART > """
+  # Update an option
+  def setOption(option, argument)
+    @options[option] = argument
+  end
+
+  # Return list of options with values
   def getOptions
     return @options
   end
 
+  # Check if an option exist
+  def checkOption(option, argument)
+    if @options.include? option
+      if option == "fd" || option == "td"
+        if checkFormatDate(argument)
+          return true
+        else
+          return false
+        end
+      end
+      return true
+    else
+      return false
+    end
+  end
+
+  """ </ OPTIONS PART > """
+
+  """ < MENU PART > """
+  # Return help menu for options
+  def optionsMenu
+    menu  = "== OPTIONS ==\n"
+    menu << "fd     <21-10-2015-07:28:00>  => Analyse logs from this date\n"
+    menu << "td     <22-10-2015-00:00:00>  => Analyse logs to this date\n"
+    menu << "export yes|no                 => Do you want export results to CSV\n"
+    return menu
+  end
+
+  # Return help menu for functions
+  def functionsMenu
+    menu  = "== FUNCTIONS ==\n"
+    menu << "connections                  => Return all connections between 'fd' and 'td'\n"
+    return menu
+  end
+
+  """ < MENU PART > """
+
+
+  # Run a function
   def run(function)
     case function
     when "connections"
@@ -20,6 +66,9 @@ class Services::SSH
     end
   end
 
+
+  """ < CORE PART > """
+  # Return all connections and disconnections
   def getConnections
     @log_files.each do |file|
       counter = 0
@@ -57,7 +106,9 @@ class Services::SSH
         file.close
       end
   end
+  """ </ CORE PART > """
 
+  """ < PRIVATE PART > """
   def goodDate(date)
     fd = getDateFromUser(@options["fd"])
     td = getDateFromUser(@options["td"])
@@ -85,20 +136,12 @@ class Services::SSH
     return date
   end
 
-
-  def optionsMenu
-    menu  = "== OPTIONS ==\n"
-    menu << "fd     <21-10-2015-07:28:00>  => Analyse logs from this date\n"
-    menu << "td     <22-10-2015-00:00:00>  => Analyse logs to this date\n"
-    menu << "export yes|no                 => Do you want export results to CSV\n"
-    return menu
-  end
-
-  def checkOption(option, argument)
-    if @options.include? option
+  def checkFormatDate(date)
+    if date =~ /^[0-9]{2}-[0-9]{2}-[0-9]{4}-[0-9]{2}:[0-9]{2}:[0-9]{2}$/
       return true
     else
       return false
     end
   end
+  """ </ PRIVATE PART > """
 end

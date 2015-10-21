@@ -10,6 +10,7 @@ class Sherlock::Base
     @console = Sherlock::Console.new
   end
 
+  # Run a function of a service
   def run(function)
     if @service == nil
       @console.showError("run", "no_service")
@@ -18,48 +19,49 @@ class Sherlock::Base
     end
   end
 
+  # Prepare the prompt
   def prompt
     return @console.showPrompt(@service)
   end
 
-  def options
-    @console.showRegisteredOptions(@options)
-  end
-
-  def setService(service)
+  # Configure a service for the user
+  def useService(service)
     if @services.include? service
       @service = service
-      @options = @services[@service].getOptions
     else
       @console.showError("service", "not_available")
     end
   end
 
+  # Unset the service
   def back
     @service = nil
     @options = {}
   end
 
-  def availablesOptions
+  # List of options for a service
+  def getOptions
     if @service == nil
       @console.showError("options", "no_service")
     else
-      @console.show(@services[@service].optionsMenu)
+      @console.showOptions(@services[@service].getOptions)
     end
   end
 
+  # Set an option
   def setOption(option, argument)
     if @service == nil
       @console.showError("options", "no_service")
     else
       if @services[@service].checkOption(option, argument)
-        @options[option] = argument
+        @services[@service].setOption(option, argument)
       else
         @console.showError("options", "bad_option")
       end
     end
   end
 
+  # Generate the list of services
   def listServices
     Dir.foreach("lib/services/") do |file|
       if file =~ /\.rb/
@@ -68,6 +70,14 @@ class Sherlock::Base
     end
   end
 
-  def serviceOptions
+  # Get help menu for functions
+  def getServiceFunctions
+    @console.show(@services[@service].functionsMenu)
   end
+
+  # Get Help menu for options
+  def getServiceOptions
+    @console.show(@services[@service].optionsMenu)
+  end
+
 end

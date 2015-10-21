@@ -25,8 +25,8 @@ class Sherlock::Console
       case error
       when "no_service"
         puts "[-] Set service before."
-      when "bad-option"
-        puts "[-] This option doesn't exist."
+      when "bad_option"
+        puts "[-] Bad option or argument."
       else
         puts "[-] Undefined error."
       end
@@ -40,8 +40,8 @@ class Sherlock::Console
     end
   end
 
-  def showRegisteredOptions(options)
-    output = "== SAVED OPTIONS ==\n"
+  def showOptions(options)
+    output = "== OPTIONS ==\n"
     options.each do |key, value|
       output << "#{key} = #{value}\n"
     end

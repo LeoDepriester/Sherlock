@@ -28,28 +28,32 @@ while command[0] != "quit"
   case command[0]
   when "help"
     puts "== COMMANDS =="
-    puts "help              => Show all commands"
-    puts "quit              => Leave the software"
-    puts "show options      => Set availables options"
+    puts "help                    => Show all commands"
+    puts "quit                    => Leave the software"
+    puts "services                => List availables services modules"
+    puts "use [service]           => Use the selected service module"
+    puts "options                 => Show options that will be use by a service"
+    puts "service options         => Show help menu about availables options for your actual service"
+    puts "service functions       => Show help menu about availables functions for your actual service"
+    puts "run [function]          => Run function of your actual service"
   when "set"
     if command.length == 3
-      if command[1] == "service"
-        sherlock.setService(command[2])
-      else
-        sherlock.setOption(command[1], command[2])
-      end
+      sherlock.setOption(command[1], command[2])
     else
       puts "No enought arguments"
     end
-  when "show"
+  when "use"
     if command.length == 2
-      if command[1] == "options"
-        sherlock.options
-      end
-    elsif command.length == 3
-      if command[1] == "options" && command[2] == "service"
-        sherlock.availablesOptions
-      end
+      sherlock.useService(command[1])
+    end
+  when "options"
+    sherlock.getOptions
+  when "service"
+    case command[1]
+    when "functions"
+      sherlock.getServiceFunctions
+    when "options"
+      sherlock.getServiceOptions
     end
   when "run"
     if command.length == 2
@@ -61,9 +65,5 @@ while command[0] != "quit"
     sherlock.listServices
   when "quit"
     puts "Good Bye !"
-  when "all"
-
-  else
-    puts "This command doesn't exist !"
   end
 end
