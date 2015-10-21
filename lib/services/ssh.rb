@@ -6,14 +6,18 @@ class Services::SSH
   def initialize
     @log_files = Dir["dev/logs/auth.log*"]
     @options = {"fd" => Time.now.strftime("%d-%m-%Y-%T"), "td" => Time.now.strftime("%d-%m-%Y-%T"), "export" => "No "}
+    @functions = ["connections"]
   end
 
   def getOptions
     return @options
   end
 
-  def run
-
+  def run(function)
+    case function
+    when "connections"
+      getConnections
+    end
   end
 
   def getConnections
@@ -55,9 +59,11 @@ class Services::SSH
   end
 
   def goodDate(date)
+    fd = getDateFromUser(@options["fd"])
+    td = getDateFromUser(@options["td"])
     ts_line = DateTime.new(date[:year].to_i, date[:month].to_i, date[:day].to_i, date[:hour].to_i, date[:min].to_i, date[:sec].to_i).to_time.to_i
-    ts_fd = DateTime.new(@fd[:year], @fd[:month], @fd[:day], @fd[:hour], @fd[:min], @fd[:sec]).to_time.to_i
-    ts_td = DateTime.new(@td[:year], @td[:month], @td[:day], @td[:hour], @td[:min], @td[:sec]).to_time.to_i
+    ts_fd = DateTime.new(fd[:year], fd[:month], fd[:day], fd[:hour], fd[:min], fd[:sec]).to_time.to_i
+    ts_td = DateTime.new(td[:year], td[:month], td[:day], td[:hour], td[:min], td[:sec]).to_time.to_i
     if ts_line > ts_fd && ts_line < ts_td
       return true
     else

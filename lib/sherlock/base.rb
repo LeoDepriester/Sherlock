@@ -8,14 +8,13 @@ class Sherlock::Base
     @service = nil
     @services = {"ssh" => @ssh}
     @console = Sherlock::Console.new
-    @options = Hash.new
   end
 
-  def run
+  def run(function)
     if @service == nil
       @console.showError("run", "no_service")
     else
-      @services[@service].run(@options)
+      @services[@service].run(function)
     end
   end
 

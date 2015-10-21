@@ -52,7 +52,9 @@ while command[0] != "quit"
       end
     end
   when "run"
-    sherlock.run
+    if command.length == 2
+      sherlock.run(command[1])
+    end
   when "back"
     sherlock.back
   when "services"
