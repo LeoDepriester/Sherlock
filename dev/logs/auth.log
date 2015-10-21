@@ -1,0 +1,1759 @@
+Oct 18 06:25:03 ns380518 CRON[27872]: pam_unix(cron:session): session closed for user root
+Oct 18 06:26:01 ns380518 CRON[28056]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:26:01 ns380518 CRON[28056]: pam_unix(cron:session): session closed for user root
+Oct 18 06:27:01 ns380518 CRON[28099]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:27:01 ns380518 CRON[28099]: pam_unix(cron:session): session closed for user root
+Oct 18 06:28:01 ns380518 CRON[28142]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:28:02 ns380518 CRON[28142]: pam_unix(cron:session): session closed for user root
+Oct 18 06:29:01 ns380518 CRON[28185]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:29:01 ns380518 CRON[28185]: pam_unix(cron:session): session closed for user root
+Oct 18 06:30:01 ns380518 CRON[28228]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:30:01 ns380518 CRON[28228]: pam_unix(cron:session): session closed for user root
+Oct 18 06:31:01 ns380518 CRON[28271]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:31:02 ns380518 CRON[28271]: pam_unix(cron:session): session closed for user root
+Oct 18 06:32:01 ns380518 CRON[28314]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:32:01 ns380518 CRON[28314]: pam_unix(cron:session): session closed for user root
+Oct 18 06:33:01 ns380518 CRON[28357]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:33:01 ns380518 CRON[28357]: pam_unix(cron:session): session closed for user root
+Oct 18 06:34:01 ns380518 CRON[28400]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:34:01 ns380518 CRON[28400]: pam_unix(cron:session): session closed for user root
+Oct 18 06:35:01 ns380518 CRON[28443]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:35:02 ns380518 CRON[28443]: pam_unix(cron:session): session closed for user root
+Oct 18 06:36:01 ns380518 CRON[28486]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:36:01 ns380518 CRON[28486]: pam_unix(cron:session): session closed for user root
+Oct 18 06:37:01 ns380518 CRON[28529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:37:01 ns380518 CRON[28529]: pam_unix(cron:session): session closed for user root
+Oct 18 06:38:01 ns380518 CRON[28572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:38:02 ns380518 CRON[28572]: pam_unix(cron:session): session closed for user root
+Oct 18 06:39:01 ns380518 CRON[28615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:39:01 ns380518 CRON[28616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:39:01 ns380518 CRON[28616]: pam_unix(cron:session): session closed for user root
+Oct 18 06:39:01 ns380518 CRON[28615]: pam_unix(cron:session): session closed for user root
+Oct 18 06:40:01 ns380518 CRON[28670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:40:01 ns380518 CRON[28670]: pam_unix(cron:session): session closed for user root
+Oct 18 06:41:01 ns380518 CRON[28713]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:41:03 ns380518 CRON[28713]: pam_unix(cron:session): session closed for user root
+Oct 18 06:42:01 ns380518 CRON[28795]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:42:01 ns380518 CRON[28795]: pam_unix(cron:session): session closed for user root
+Oct 18 06:43:01 ns380518 CRON[28838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:43:01 ns380518 CRON[28838]: pam_unix(cron:session): session closed for user root
+Oct 18 06:44:01 ns380518 CRON[28881]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:44:02 ns380518 CRON[28881]: pam_unix(cron:session): session closed for user root
+Oct 18 06:45:01 ns380518 CRON[28924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:45:01 ns380518 CRON[28924]: pam_unix(cron:session): session closed for user root
+Oct 18 06:46:01 ns380518 CRON[28967]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:46:01 ns380518 CRON[28967]: pam_unix(cron:session): session closed for user root
+Oct 18 06:47:01 ns380518 CRON[29010]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:47:01 ns380518 CRON[29011]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:47:01 ns380518 CRON[29011]: pam_unix(cron:session): session closed for user root
+Oct 18 06:47:02 ns380518 CRON[29010]: pam_unix(cron:session): session closed for user root
+Oct 18 06:48:01 ns380518 CRON[29064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:48:01 ns380518 CRON[29064]: pam_unix(cron:session): session closed for user root
+Oct 18 06:49:01 ns380518 CRON[29107]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:49:01 ns380518 CRON[29107]: pam_unix(cron:session): session closed for user root
+Oct 18 06:50:01 ns380518 CRON[29150]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:50:01 ns380518 CRON[29150]: pam_unix(cron:session): session closed for user root
+Oct 18 06:51:01 ns380518 CRON[29193]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:51:02 ns380518 CRON[29193]: pam_unix(cron:session): session closed for user root
+Oct 18 06:52:01 ns380518 CRON[29236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:52:01 ns380518 CRON[29236]: pam_unix(cron:session): session closed for user root
+Oct 18 06:53:01 ns380518 CRON[29279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:53:01 ns380518 CRON[29279]: pam_unix(cron:session): session closed for user root
+Oct 18 06:54:01 ns380518 CRON[29322]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:54:01 ns380518 CRON[29322]: pam_unix(cron:session): session closed for user root
+Oct 18 06:55:01 ns380518 CRON[29365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:55:02 ns380518 CRON[29365]: pam_unix(cron:session): session closed for user root
+Oct 18 06:56:01 ns380518 CRON[29408]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:56:01 ns380518 CRON[29408]: pam_unix(cron:session): session closed for user root
+Oct 18 06:57:01 ns380518 CRON[29451]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:57:01 ns380518 CRON[29451]: pam_unix(cron:session): session closed for user root
+Oct 18 06:58:01 ns380518 CRON[29494]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:58:02 ns380518 CRON[29494]: pam_unix(cron:session): session closed for user root
+Oct 18 06:59:01 ns380518 CRON[29537]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 06:59:01 ns380518 CRON[29537]: pam_unix(cron:session): session closed for user root
+Oct 18 07:00:01 ns380518 CRON[29580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:00:01 ns380518 CRON[29580]: pam_unix(cron:session): session closed for user root
+Oct 18 07:01:01 ns380518 CRON[29623]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:01:01 ns380518 CRON[29623]: pam_unix(cron:session): session closed for user root
+Oct 18 07:02:01 ns380518 CRON[29666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:02:02 ns380518 CRON[29666]: pam_unix(cron:session): session closed for user root
+Oct 18 07:03:01 ns380518 CRON[29709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:03:01 ns380518 CRON[29709]: pam_unix(cron:session): session closed for user root
+Oct 18 07:04:01 ns380518 CRON[29752]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:04:01 ns380518 CRON[29752]: pam_unix(cron:session): session closed for user root
+Oct 18 07:05:01 ns380518 CRON[29795]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:05:02 ns380518 CRON[29795]: pam_unix(cron:session): session closed for user root
+Oct 18 07:06:01 ns380518 CRON[29838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:06:01 ns380518 CRON[29838]: pam_unix(cron:session): session closed for user root
+Oct 18 07:07:01 ns380518 CRON[29881]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:07:01 ns380518 CRON[29881]: pam_unix(cron:session): session closed for user root
+Oct 18 07:08:01 ns380518 CRON[29924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:08:01 ns380518 CRON[29924]: pam_unix(cron:session): session closed for user root
+Oct 18 07:09:01 ns380518 CRON[29967]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:09:01 ns380518 CRON[29968]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:09:02 ns380518 CRON[29968]: pam_unix(cron:session): session closed for user root
+Oct 18 07:09:02 ns380518 CRON[29967]: pam_unix(cron:session): session closed for user root
+Oct 18 07:10:01 ns380518 CRON[30022]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:10:01 ns380518 CRON[30022]: pam_unix(cron:session): session closed for user root
+Oct 18 07:11:01 ns380518 CRON[30065]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:11:01 ns380518 CRON[30065]: pam_unix(cron:session): session closed for user root
+Oct 18 07:12:01 ns380518 CRON[30108]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:12:01 ns380518 CRON[30108]: pam_unix(cron:session): session closed for user root
+Oct 18 07:13:01 ns380518 CRON[30151]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:13:02 ns380518 CRON[30151]: pam_unix(cron:session): session closed for user root
+Oct 18 07:14:01 ns380518 CRON[30194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:14:01 ns380518 CRON[30194]: pam_unix(cron:session): session closed for user root
+Oct 18 07:15:01 ns380518 CRON[30237]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:15:01 ns380518 CRON[30237]: pam_unix(cron:session): session closed for user root
+Oct 18 07:16:01 ns380518 CRON[30280]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:16:02 ns380518 CRON[30280]: pam_unix(cron:session): session closed for user root
+Oct 18 07:17:01 ns380518 CRON[30323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:17:01 ns380518 CRON[30324]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:17:01 ns380518 CRON[30324]: pam_unix(cron:session): session closed for user root
+Oct 18 07:17:01 ns380518 CRON[30323]: pam_unix(cron:session): session closed for user root
+Oct 18 07:18:01 ns380518 CRON[30369]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:18:01 ns380518 CRON[30369]: pam_unix(cron:session): session closed for user root
+Oct 18 07:19:01 ns380518 CRON[30412]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:19:01 ns380518 CRON[30412]: pam_unix(cron:session): session closed for user root
+Oct 18 07:20:01 ns380518 CRON[30455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:20:02 ns380518 CRON[30455]: pam_unix(cron:session): session closed for user root
+Oct 18 07:21:01 ns380518 CRON[30498]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:21:01 ns380518 CRON[30498]: pam_unix(cron:session): session closed for user root
+Oct 18 07:22:01 ns380518 CRON[30541]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:22:01 ns380518 CRON[30541]: pam_unix(cron:session): session closed for user root
+Oct 18 07:23:01 ns380518 CRON[30584]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:23:02 ns380518 CRON[30584]: pam_unix(cron:session): session closed for user root
+Oct 18 07:24:01 ns380518 CRON[30627]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:24:01 ns380518 CRON[30627]: pam_unix(cron:session): session closed for user root
+Oct 18 07:25:01 ns380518 CRON[30670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:25:01 ns380518 CRON[30670]: pam_unix(cron:session): session closed for user root
+Oct 18 07:26:01 ns380518 CRON[30713]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:26:01 ns380518 CRON[30713]: pam_unix(cron:session): session closed for user root
+Oct 18 07:27:01 ns380518 CRON[30756]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:27:02 ns380518 CRON[30756]: pam_unix(cron:session): session closed for user root
+Oct 18 07:28:01 ns380518 CRON[30799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:28:01 ns380518 CRON[30799]: pam_unix(cron:session): session closed for user root
+Oct 18 07:29:01 ns380518 CRON[30842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:29:01 ns380518 CRON[30842]: pam_unix(cron:session): session closed for user root
+Oct 18 07:30:01 ns380518 CRON[30885]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:30:01 ns380518 CRON[30885]: pam_unix(cron:session): session closed for user root
+Oct 18 07:31:01 ns380518 CRON[30928]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:31:02 ns380518 CRON[30928]: pam_unix(cron:session): session closed for user root
+Oct 18 07:32:01 ns380518 CRON[30971]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:32:01 ns380518 CRON[30971]: pam_unix(cron:session): session closed for user root
+Oct 18 07:33:01 ns380518 CRON[31014]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:33:01 ns380518 CRON[31014]: pam_unix(cron:session): session closed for user root
+Oct 18 07:34:01 ns380518 CRON[31057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:34:02 ns380518 CRON[31057]: pam_unix(cron:session): session closed for user root
+Oct 18 07:35:01 ns380518 CRON[31100]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:35:01 ns380518 CRON[31100]: pam_unix(cron:session): session closed for user root
+Oct 18 07:36:01 ns380518 CRON[31143]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:36:01 ns380518 CRON[31143]: pam_unix(cron:session): session closed for user root
+Oct 18 07:37:01 ns380518 CRON[31186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:37:01 ns380518 CRON[31186]: pam_unix(cron:session): session closed for user root
+Oct 18 07:38:01 ns380518 CRON[31229]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:38:02 ns380518 CRON[31229]: pam_unix(cron:session): session closed for user root
+Oct 18 07:39:01 ns380518 CRON[31272]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:39:01 ns380518 CRON[31273]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:39:01 ns380518 CRON[31273]: pam_unix(cron:session): session closed for user root
+Oct 18 07:39:01 ns380518 CRON[31272]: pam_unix(cron:session): session closed for user root
+Oct 18 07:40:01 ns380518 CRON[31327]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:40:01 ns380518 CRON[31327]: pam_unix(cron:session): session closed for user root
+Oct 18 07:41:01 ns380518 CRON[31370]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:41:03 ns380518 CRON[31370]: pam_unix(cron:session): session closed for user root
+Oct 18 07:42:01 ns380518 CRON[31453]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:42:01 ns380518 CRON[31453]: pam_unix(cron:session): session closed for user root
+Oct 18 07:43:01 ns380518 CRON[31496]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:43:02 ns380518 CRON[31496]: pam_unix(cron:session): session closed for user root
+Oct 18 07:44:01 ns380518 CRON[31539]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:44:01 ns380518 CRON[31539]: pam_unix(cron:session): session closed for user root
+Oct 18 07:45:01 ns380518 CRON[31582]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:45:01 ns380518 CRON[31582]: pam_unix(cron:session): session closed for user root
+Oct 18 07:46:01 ns380518 CRON[31625]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:46:02 ns380518 CRON[31625]: pam_unix(cron:session): session closed for user root
+Oct 18 07:47:01 ns380518 CRON[31668]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:47:01 ns380518 CRON[31668]: pam_unix(cron:session): session closed for user root
+Oct 18 07:48:01 ns380518 CRON[31711]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:48:01 ns380518 CRON[31711]: pam_unix(cron:session): session closed for user root
+Oct 18 07:49:01 ns380518 CRON[31754]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:49:01 ns380518 CRON[31754]: pam_unix(cron:session): session closed for user root
+Oct 18 07:50:01 ns380518 CRON[31797]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:50:02 ns380518 CRON[31797]: pam_unix(cron:session): session closed for user root
+Oct 18 07:51:01 ns380518 CRON[31840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:51:01 ns380518 CRON[31840]: pam_unix(cron:session): session closed for user root
+Oct 18 07:52:01 ns380518 CRON[31884]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:52:01 ns380518 CRON[31884]: pam_unix(cron:session): session closed for user root
+Oct 18 07:53:01 ns380518 CRON[31927]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:53:01 ns380518 CRON[31927]: pam_unix(cron:session): session closed for user root
+Oct 18 07:54:01 ns380518 CRON[31970]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:54:02 ns380518 CRON[31970]: pam_unix(cron:session): session closed for user root
+Oct 18 07:55:01 ns380518 CRON[32013]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:55:01 ns380518 CRON[32013]: pam_unix(cron:session): session closed for user root
+Oct 18 07:56:01 ns380518 CRON[32056]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:56:01 ns380518 CRON[32056]: pam_unix(cron:session): session closed for user root
+Oct 18 07:57:01 ns380518 CRON[32099]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:57:02 ns380518 CRON[32099]: pam_unix(cron:session): session closed for user root
+Oct 18 07:58:01 ns380518 CRON[32142]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:58:01 ns380518 CRON[32142]: pam_unix(cron:session): session closed for user root
+Oct 18 07:59:01 ns380518 CRON[32185]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 07:59:01 ns380518 CRON[32185]: pam_unix(cron:session): session closed for user root
+Oct 18 08:00:01 ns380518 CRON[32228]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:00:01 ns380518 CRON[32228]: pam_unix(cron:session): session closed for user root
+Oct 18 08:01:01 ns380518 CRON[32271]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:01:02 ns380518 CRON[32271]: pam_unix(cron:session): session closed for user root
+Oct 18 08:02:01 ns380518 CRON[32314]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:02:01 ns380518 CRON[32314]: pam_unix(cron:session): session closed for user root
+Oct 18 08:03:01 ns380518 CRON[32357]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:03:01 ns380518 CRON[32357]: pam_unix(cron:session): session closed for user root
+Oct 18 08:04:01 ns380518 CRON[32400]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:04:01 ns380518 CRON[32400]: pam_unix(cron:session): session closed for user root
+Oct 18 08:05:01 ns380518 CRON[32443]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:05:02 ns380518 CRON[32443]: pam_unix(cron:session): session closed for user root
+Oct 18 08:06:01 ns380518 CRON[32486]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:06:01 ns380518 CRON[32486]: pam_unix(cron:session): session closed for user root
+Oct 18 08:07:01 ns380518 CRON[32529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:07:01 ns380518 CRON[32529]: pam_unix(cron:session): session closed for user root
+Oct 18 08:08:01 ns380518 CRON[32572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:08:02 ns380518 CRON[32572]: pam_unix(cron:session): session closed for user root
+Oct 18 08:09:01 ns380518 CRON[32615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:09:01 ns380518 CRON[32616]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:09:01 ns380518 CRON[32616]: pam_unix(cron:session): session closed for user root
+Oct 18 08:09:01 ns380518 CRON[32615]: pam_unix(cron:session): session closed for user root
+Oct 18 08:10:01 ns380518 CRON[32670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:10:01 ns380518 CRON[32670]: pam_unix(cron:session): session closed for user root
+Oct 18 08:11:01 ns380518 CRON[32713]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:11:01 ns380518 CRON[32713]: pam_unix(cron:session): session closed for user root
+Oct 18 08:12:01 ns380518 CRON[32756]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:12:02 ns380518 CRON[32756]: pam_unix(cron:session): session closed for user root
+Oct 18 08:13:01 ns380518 CRON[531]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:13:01 ns380518 CRON[531]: pam_unix(cron:session): session closed for user root
+Oct 18 08:14:01 ns380518 CRON[574]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:14:01 ns380518 CRON[574]: pam_unix(cron:session): session closed for user root
+Oct 18 08:15:01 ns380518 CRON[617]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:15:01 ns380518 CRON[617]: pam_unix(cron:session): session closed for user root
+Oct 18 08:16:01 ns380518 CRON[660]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:16:02 ns380518 CRON[660]: pam_unix(cron:session): session closed for user root
+Oct 18 08:17:01 ns380518 CRON[703]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:17:01 ns380518 CRON[704]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:17:01 ns380518 CRON[704]: pam_unix(cron:session): session closed for user root
+Oct 18 08:17:01 ns380518 CRON[703]: pam_unix(cron:session): session closed for user root
+Oct 18 08:18:01 ns380518 CRON[751]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:18:01 ns380518 CRON[751]: pam_unix(cron:session): session closed for user root
+Oct 18 08:19:01 ns380518 CRON[794]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:19:02 ns380518 CRON[794]: pam_unix(cron:session): session closed for user root
+Oct 18 08:20:01 ns380518 CRON[837]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:20:01 ns380518 CRON[837]: pam_unix(cron:session): session closed for user root
+Oct 18 08:21:01 ns380518 CRON[880]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:21:01 ns380518 CRON[880]: pam_unix(cron:session): session closed for user root
+Oct 18 08:22:01 ns380518 CRON[923]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:22:01 ns380518 CRON[923]: pam_unix(cron:session): session closed for user root
+Oct 18 08:23:01 ns380518 CRON[966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:23:02 ns380518 CRON[966]: pam_unix(cron:session): session closed for user root
+Oct 18 08:24:01 ns380518 CRON[1009]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:24:01 ns380518 CRON[1009]: pam_unix(cron:session): session closed for user root
+Oct 18 08:25:01 ns380518 CRON[1052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:25:01 ns380518 CRON[1052]: pam_unix(cron:session): session closed for user root
+Oct 18 08:26:01 ns380518 CRON[1095]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:26:01 ns380518 CRON[1095]: pam_unix(cron:session): session closed for user root
+Oct 18 08:27:01 ns380518 CRON[1138]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:27:02 ns380518 CRON[1138]: pam_unix(cron:session): session closed for user root
+Oct 18 08:28:01 ns380518 CRON[1181]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:28:01 ns380518 CRON[1181]: pam_unix(cron:session): session closed for user root
+Oct 18 08:29:01 ns380518 CRON[1224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:29:01 ns380518 CRON[1224]: pam_unix(cron:session): session closed for user root
+Oct 18 08:30:01 ns380518 CRON[1267]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:30:02 ns380518 CRON[1267]: pam_unix(cron:session): session closed for user root
+Oct 18 08:31:01 ns380518 CRON[1310]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:31:01 ns380518 CRON[1310]: pam_unix(cron:session): session closed for user root
+Oct 18 08:32:01 ns380518 CRON[1353]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:32:01 ns380518 CRON[1353]: pam_unix(cron:session): session closed for user root
+Oct 18 08:33:01 ns380518 CRON[1396]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:33:01 ns380518 CRON[1396]: pam_unix(cron:session): session closed for user root
+Oct 18 08:34:01 ns380518 CRON[1440]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:34:02 ns380518 CRON[1440]: pam_unix(cron:session): session closed for user root
+Oct 18 08:35:01 ns380518 CRON[1485]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:35:01 ns380518 CRON[1485]: pam_unix(cron:session): session closed for user root
+Oct 18 08:36:01 ns380518 CRON[1528]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:36:01 ns380518 CRON[1528]: pam_unix(cron:session): session closed for user root
+Oct 18 08:37:01 ns380518 CRON[1571]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:37:01 ns380518 CRON[1571]: pam_unix(cron:session): session closed for user root
+Oct 18 08:38:01 ns380518 CRON[1614]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:38:02 ns380518 CRON[1614]: pam_unix(cron:session): session closed for user root
+Oct 18 08:39:01 ns380518 CRON[1657]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:39:01 ns380518 CRON[1658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:39:01 ns380518 CRON[1658]: pam_unix(cron:session): session closed for user root
+Oct 18 08:39:01 ns380518 CRON[1657]: pam_unix(cron:session): session closed for user root
+Oct 18 08:40:01 ns380518 CRON[1712]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:40:01 ns380518 CRON[1712]: pam_unix(cron:session): session closed for user root
+Oct 18 08:41:01 ns380518 CRON[1755]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:41:03 ns380518 CRON[1755]: pam_unix(cron:session): session closed for user root
+Oct 18 08:42:01 ns380518 CRON[1837]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:42:01 ns380518 CRON[1837]: pam_unix(cron:session): session closed for user root
+Oct 18 08:43:01 ns380518 CRON[1880]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:43:02 ns380518 CRON[1880]: pam_unix(cron:session): session closed for user root
+Oct 18 08:44:01 ns380518 CRON[1923]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:44:01 ns380518 CRON[1923]: pam_unix(cron:session): session closed for user root
+Oct 18 08:45:01 ns380518 CRON[1966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:45:01 ns380518 CRON[1966]: pam_unix(cron:session): session closed for user root
+Oct 18 08:46:01 ns380518 CRON[2009]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:46:01 ns380518 CRON[2009]: pam_unix(cron:session): session closed for user root
+Oct 18 08:47:02 ns380518 CRON[2053]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:47:02 ns380518 CRON[2053]: pam_unix(cron:session): session closed for user root
+Oct 18 08:48:01 ns380518 CRON[2101]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:48:01 ns380518 CRON[2101]: pam_unix(cron:session): session closed for user root
+Oct 18 08:49:01 ns380518 CRON[2144]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:49:01 ns380518 CRON[2144]: pam_unix(cron:session): session closed for user root
+Oct 18 08:50:01 ns380518 CRON[2187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:50:02 ns380518 CRON[2187]: pam_unix(cron:session): session closed for user root
+Oct 18 08:51:01 ns380518 CRON[2232]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:51:01 ns380518 CRON[2232]: pam_unix(cron:session): session closed for user root
+Oct 18 08:52:01 ns380518 CRON[2282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:52:01 ns380518 CRON[2282]: pam_unix(cron:session): session closed for user root
+Oct 18 08:53:01 ns380518 CRON[2327]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:53:01 ns380518 CRON[2327]: pam_unix(cron:session): session closed for user root
+Oct 18 08:54:01 ns380518 CRON[2376]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:54:02 ns380518 CRON[2376]: pam_unix(cron:session): session closed for user root
+Oct 18 08:55:01 ns380518 CRON[2419]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:55:01 ns380518 CRON[2419]: pam_unix(cron:session): session closed for user root
+Oct 18 08:56:01 ns380518 CRON[2462]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:56:01 ns380518 CRON[2462]: pam_unix(cron:session): session closed for user root
+Oct 18 08:57:01 ns380518 CRON[2505]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:57:01 ns380518 CRON[2505]: pam_unix(cron:session): session closed for user root
+Oct 18 08:58:01 ns380518 CRON[2548]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:58:02 ns380518 CRON[2548]: pam_unix(cron:session): session closed for user root
+Oct 18 08:59:01 ns380518 CRON[2591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 08:59:01 ns380518 CRON[2591]: pam_unix(cron:session): session closed for user root
+Oct 18 09:00:01 ns380518 CRON[2639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:00:01 ns380518 CRON[2639]: pam_unix(cron:session): session closed for user root
+Oct 18 09:01:01 ns380518 CRON[2682]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:01:02 ns380518 CRON[2682]: pam_unix(cron:session): session closed for user root
+Oct 18 09:02:01 ns380518 CRON[2731]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:02:01 ns380518 CRON[2731]: pam_unix(cron:session): session closed for user root
+Oct 18 09:03:01 ns380518 CRON[2783]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:03:01 ns380518 CRON[2783]: pam_unix(cron:session): session closed for user root
+Oct 18 09:04:01 ns380518 CRON[2826]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:04:01 ns380518 CRON[2826]: pam_unix(cron:session): session closed for user root
+Oct 18 09:05:01 ns380518 CRON[2869]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:05:02 ns380518 CRON[2869]: pam_unix(cron:session): session closed for user root
+Oct 18 09:06:01 ns380518 CRON[2912]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:06:01 ns380518 CRON[2912]: pam_unix(cron:session): session closed for user root
+Oct 18 09:07:01 ns380518 CRON[2955]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:07:01 ns380518 CRON[2955]: pam_unix(cron:session): session closed for user root
+Oct 18 09:08:01 ns380518 CRON[2998]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:08:01 ns380518 CRON[2998]: pam_unix(cron:session): session closed for user root
+Oct 18 09:09:01 ns380518 CRON[3041]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:09:01 ns380518 CRON[3042]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:09:02 ns380518 CRON[3042]: pam_unix(cron:session): session closed for user root
+Oct 18 09:09:02 ns380518 CRON[3041]: pam_unix(cron:session): session closed for user root
+Oct 18 09:10:01 ns380518 CRON[3096]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:10:01 ns380518 CRON[3096]: pam_unix(cron:session): session closed for user root
+Oct 18 09:11:01 ns380518 CRON[3139]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:11:01 ns380518 CRON[3139]: pam_unix(cron:session): session closed for user root
+Oct 18 09:12:01 ns380518 CRON[3182]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:12:02 ns380518 CRON[3182]: pam_unix(cron:session): session closed for user root
+Oct 18 09:13:01 ns380518 CRON[3225]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:13:01 ns380518 CRON[3225]: pam_unix(cron:session): session closed for user root
+Oct 18 09:14:01 ns380518 CRON[3268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:14:01 ns380518 CRON[3268]: pam_unix(cron:session): session closed for user root
+Oct 18 09:15:01 ns380518 CRON[3311]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:15:01 ns380518 CRON[3311]: pam_unix(cron:session): session closed for user root
+Oct 18 09:16:01 ns380518 CRON[3354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:16:02 ns380518 CRON[3354]: pam_unix(cron:session): session closed for user root
+Oct 18 09:17:01 ns380518 CRON[3397]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:17:01 ns380518 CRON[3398]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:17:01 ns380518 CRON[3398]: pam_unix(cron:session): session closed for user root
+Oct 18 09:17:01 ns380518 CRON[3397]: pam_unix(cron:session): session closed for user root
+Oct 18 09:18:01 ns380518 CRON[3443]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:18:01 ns380518 CRON[3443]: pam_unix(cron:session): session closed for user root
+Oct 18 09:19:01 ns380518 CRON[3486]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:19:02 ns380518 CRON[3486]: pam_unix(cron:session): session closed for user root
+Oct 18 09:20:01 ns380518 CRON[3529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:20:01 ns380518 CRON[3529]: pam_unix(cron:session): session closed for user root
+Oct 18 09:21:01 ns380518 CRON[3572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:21:01 ns380518 CRON[3572]: pam_unix(cron:session): session closed for user root
+Oct 18 09:22:01 ns380518 CRON[3615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:22:01 ns380518 CRON[3615]: pam_unix(cron:session): session closed for user root
+Oct 18 09:23:01 ns380518 CRON[3658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:23:02 ns380518 CRON[3658]: pam_unix(cron:session): session closed for user root
+Oct 18 09:24:01 ns380518 CRON[3701]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:24:01 ns380518 CRON[3701]: pam_unix(cron:session): session closed for user root
+Oct 18 09:25:01 ns380518 CRON[3744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:25:01 ns380518 CRON[3744]: pam_unix(cron:session): session closed for user root
+Oct 18 09:26:01 ns380518 CRON[3787]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:26:01 ns380518 CRON[3787]: pam_unix(cron:session): session closed for user root
+Oct 18 09:27:01 ns380518 CRON[3830]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:27:02 ns380518 CRON[3830]: pam_unix(cron:session): session closed for user root
+Oct 18 09:28:01 ns380518 CRON[3873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:28:01 ns380518 CRON[3873]: pam_unix(cron:session): session closed for user root
+Oct 18 09:29:01 ns380518 CRON[3916]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:29:01 ns380518 CRON[3916]: pam_unix(cron:session): session closed for user root
+Oct 18 09:30:01 ns380518 CRON[3959]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:30:02 ns380518 CRON[3959]: pam_unix(cron:session): session closed for user root
+Oct 18 09:31:01 ns380518 CRON[4002]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:31:01 ns380518 CRON[4002]: pam_unix(cron:session): session closed for user root
+Oct 18 09:32:01 ns380518 CRON[4045]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:32:01 ns380518 CRON[4045]: pam_unix(cron:session): session closed for user root
+Oct 18 09:33:01 ns380518 CRON[4088]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:33:01 ns380518 CRON[4088]: pam_unix(cron:session): session closed for user root
+Oct 18 09:34:01 ns380518 CRON[4131]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:34:02 ns380518 CRON[4131]: pam_unix(cron:session): session closed for user root
+Oct 18 09:35:01 ns380518 CRON[4174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:35:01 ns380518 CRON[4174]: pam_unix(cron:session): session closed for user root
+Oct 18 09:36:01 ns380518 CRON[4217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:36:01 ns380518 CRON[4217]: pam_unix(cron:session): session closed for user root
+Oct 18 09:37:01 ns380518 CRON[4260]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:37:02 ns380518 CRON[4260]: pam_unix(cron:session): session closed for user root
+Oct 18 09:38:01 ns380518 CRON[4303]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:38:01 ns380518 CRON[4303]: pam_unix(cron:session): session closed for user root
+Oct 18 09:39:01 ns380518 CRON[4346]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:39:01 ns380518 CRON[4347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:39:01 ns380518 CRON[4347]: pam_unix(cron:session): session closed for user root
+Oct 18 09:39:01 ns380518 CRON[4346]: pam_unix(cron:session): session closed for user root
+Oct 18 09:40:01 ns380518 CRON[4401]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:40:01 ns380518 CRON[4401]: pam_unix(cron:session): session closed for user root
+Oct 18 09:41:01 ns380518 CRON[4444]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:41:03 ns380518 CRON[4444]: pam_unix(cron:session): session closed for user root
+Oct 18 09:42:01 ns380518 CRON[4526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:42:01 ns380518 CRON[4526]: pam_unix(cron:session): session closed for user root
+Oct 18 09:43:01 ns380518 CRON[4569]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:43:02 ns380518 CRON[4569]: pam_unix(cron:session): session closed for user root
+Oct 18 09:44:01 ns380518 CRON[4612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:44:01 ns380518 CRON[4612]: pam_unix(cron:session): session closed for user root
+Oct 18 09:45:01 ns380518 CRON[4655]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:45:01 ns380518 CRON[4655]: pam_unix(cron:session): session closed for user root
+Oct 18 09:46:01 ns380518 CRON[4698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:46:02 ns380518 CRON[4698]: pam_unix(cron:session): session closed for user root
+Oct 18 09:47:01 ns380518 CRON[4741]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:47:01 ns380518 CRON[4741]: pam_unix(cron:session): session closed for user root
+Oct 18 09:48:01 ns380518 CRON[4784]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:48:01 ns380518 CRON[4784]: pam_unix(cron:session): session closed for user root
+Oct 18 09:49:01 ns380518 CRON[4827]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:49:01 ns380518 CRON[4827]: pam_unix(cron:session): session closed for user root
+Oct 18 09:50:01 ns380518 CRON[4870]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:50:02 ns380518 CRON[4870]: pam_unix(cron:session): session closed for user root
+Oct 18 09:51:01 ns380518 CRON[4913]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:51:01 ns380518 CRON[4913]: pam_unix(cron:session): session closed for user root
+Oct 18 09:52:01 ns380518 CRON[4956]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:52:01 ns380518 CRON[4956]: pam_unix(cron:session): session closed for user root
+Oct 18 09:53:01 ns380518 CRON[4999]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:53:01 ns380518 CRON[4999]: pam_unix(cron:session): session closed for user root
+Oct 18 09:54:01 ns380518 CRON[5042]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:54:02 ns380518 CRON[5042]: pam_unix(cron:session): session closed for user root
+Oct 18 09:55:01 ns380518 CRON[5085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:55:01 ns380518 CRON[5085]: pam_unix(cron:session): session closed for user root
+Oct 18 09:56:01 ns380518 CRON[5128]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:56:01 ns380518 CRON[5128]: pam_unix(cron:session): session closed for user root
+Oct 18 09:57:01 ns380518 CRON[5171]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:57:02 ns380518 CRON[5171]: pam_unix(cron:session): session closed for user root
+Oct 18 09:58:01 ns380518 CRON[5214]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:58:01 ns380518 CRON[5214]: pam_unix(cron:session): session closed for user root
+Oct 18 09:59:01 ns380518 CRON[5257]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 09:59:01 ns380518 CRON[5257]: pam_unix(cron:session): session closed for user root
+Oct 18 10:00:01 ns380518 CRON[5300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:00:01 ns380518 CRON[5300]: pam_unix(cron:session): session closed for user root
+Oct 18 10:01:01 ns380518 CRON[5343]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:01:02 ns380518 CRON[5343]: pam_unix(cron:session): session closed for user root
+Oct 18 10:02:01 ns380518 CRON[5386]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:02:01 ns380518 CRON[5386]: pam_unix(cron:session): session closed for user root
+Oct 18 10:03:01 ns380518 CRON[5429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:03:01 ns380518 CRON[5429]: pam_unix(cron:session): session closed for user root
+Oct 18 10:04:01 ns380518 CRON[5472]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:04:01 ns380518 CRON[5472]: pam_unix(cron:session): session closed for user root
+Oct 18 10:05:01 ns380518 CRON[5515]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:05:02 ns380518 CRON[5515]: pam_unix(cron:session): session closed for user root
+Oct 18 10:06:01 ns380518 CRON[5558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:06:01 ns380518 CRON[5558]: pam_unix(cron:session): session closed for user root
+Oct 18 10:07:01 ns380518 CRON[5601]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:07:01 ns380518 CRON[5601]: pam_unix(cron:session): session closed for user root
+Oct 18 10:08:01 ns380518 CRON[5644]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:08:02 ns380518 CRON[5644]: pam_unix(cron:session): session closed for user root
+Oct 18 10:09:01 ns380518 CRON[5687]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:09:01 ns380518 CRON[5688]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:09:01 ns380518 CRON[5688]: pam_unix(cron:session): session closed for user root
+Oct 18 10:09:01 ns380518 CRON[5687]: pam_unix(cron:session): session closed for user root
+Oct 18 10:10:01 ns380518 CRON[5742]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:10:01 ns380518 CRON[5742]: pam_unix(cron:session): session closed for user root
+Oct 18 10:11:01 ns380518 CRON[5785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:11:01 ns380518 CRON[5785]: pam_unix(cron:session): session closed for user root
+Oct 18 10:12:01 ns380518 CRON[5828]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:12:02 ns380518 CRON[5828]: pam_unix(cron:session): session closed for user root
+Oct 18 10:13:01 ns380518 CRON[5871]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:13:01 ns380518 CRON[5871]: pam_unix(cron:session): session closed for user root
+Oct 18 10:14:01 ns380518 CRON[5914]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:14:01 ns380518 CRON[5914]: pam_unix(cron:session): session closed for user root
+Oct 18 10:15:01 ns380518 CRON[5957]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:15:02 ns380518 CRON[5957]: pam_unix(cron:session): session closed for user root
+Oct 18 10:16:01 ns380518 CRON[6000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:16:01 ns380518 CRON[6000]: pam_unix(cron:session): session closed for user root
+Oct 18 10:17:01 ns380518 CRON[6043]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:17:01 ns380518 CRON[6044]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:17:01 ns380518 CRON[6044]: pam_unix(cron:session): session closed for user root
+Oct 18 10:17:01 ns380518 CRON[6043]: pam_unix(cron:session): session closed for user root
+Oct 18 10:18:01 ns380518 CRON[6089]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:18:01 ns380518 CRON[6089]: pam_unix(cron:session): session closed for user root
+Oct 18 10:19:01 ns380518 CRON[6132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:19:02 ns380518 CRON[6132]: pam_unix(cron:session): session closed for user root
+Oct 18 10:20:01 ns380518 CRON[6175]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:20:01 ns380518 CRON[6175]: pam_unix(cron:session): session closed for user root
+Oct 18 10:21:01 ns380518 CRON[6218]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:21:01 ns380518 CRON[6218]: pam_unix(cron:session): session closed for user root
+Oct 18 10:22:01 ns380518 CRON[6261]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:22:01 ns380518 CRON[6261]: pam_unix(cron:session): session closed for user root
+Oct 18 10:23:01 ns380518 CRON[6304]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:23:02 ns380518 CRON[6304]: pam_unix(cron:session): session closed for user root
+Oct 18 10:24:01 ns380518 CRON[6347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:24:01 ns380518 CRON[6347]: pam_unix(cron:session): session closed for user root
+Oct 18 10:25:01 ns380518 CRON[6390]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:25:01 ns380518 CRON[6390]: pam_unix(cron:session): session closed for user root
+Oct 18 10:26:01 ns380518 CRON[6433]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:26:02 ns380518 CRON[6433]: pam_unix(cron:session): session closed for user root
+Oct 18 10:27:01 ns380518 CRON[6476]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:27:01 ns380518 CRON[6476]: pam_unix(cron:session): session closed for user root
+Oct 18 10:28:01 ns380518 CRON[6519]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:28:01 ns380518 CRON[6519]: pam_unix(cron:session): session closed for user root
+Oct 18 10:29:01 ns380518 CRON[6562]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:29:01 ns380518 CRON[6562]: pam_unix(cron:session): session closed for user root
+Oct 18 10:30:01 ns380518 CRON[6605]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:30:02 ns380518 CRON[6605]: pam_unix(cron:session): session closed for user root
+Oct 18 10:31:01 ns380518 CRON[6648]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:31:01 ns380518 CRON[6648]: pam_unix(cron:session): session closed for user root
+Oct 18 10:32:01 ns380518 CRON[6691]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:32:01 ns380518 CRON[6691]: pam_unix(cron:session): session closed for user root
+Oct 18 10:33:01 ns380518 CRON[6734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:33:01 ns380518 CRON[6734]: pam_unix(cron:session): session closed for user root
+Oct 18 10:34:02 ns380518 CRON[6777]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:34:02 ns380518 CRON[6777]: pam_unix(cron:session): session closed for user root
+Oct 18 10:35:01 ns380518 CRON[6820]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:35:01 ns380518 CRON[6820]: pam_unix(cron:session): session closed for user root
+Oct 18 10:36:01 ns380518 CRON[6863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:36:01 ns380518 CRON[6863]: pam_unix(cron:session): session closed for user root
+Oct 18 10:37:01 ns380518 CRON[6906]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:37:02 ns380518 CRON[6906]: pam_unix(cron:session): session closed for user root
+Oct 18 10:38:01 ns380518 CRON[6949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:38:01 ns380518 CRON[6949]: pam_unix(cron:session): session closed for user root
+Oct 18 10:39:01 ns380518 CRON[6992]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:39:01 ns380518 CRON[6993]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:39:01 ns380518 CRON[6993]: pam_unix(cron:session): session closed for user root
+Oct 18 10:39:01 ns380518 CRON[6992]: pam_unix(cron:session): session closed for user root
+Oct 18 10:40:01 ns380518 CRON[7047]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:40:01 ns380518 CRON[7047]: pam_unix(cron:session): session closed for user root
+Oct 18 10:41:01 ns380518 CRON[7090]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:41:03 ns380518 CRON[7090]: pam_unix(cron:session): session closed for user root
+Oct 18 10:42:01 ns380518 CRON[7172]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:42:02 ns380518 CRON[7172]: pam_unix(cron:session): session closed for user root
+Oct 18 10:43:01 ns380518 CRON[7215]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:43:01 ns380518 CRON[7215]: pam_unix(cron:session): session closed for user root
+Oct 18 10:44:01 ns380518 CRON[7258]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:44:01 ns380518 CRON[7258]: pam_unix(cron:session): session closed for user root
+Oct 18 10:45:01 ns380518 CRON[7301]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:45:01 ns380518 CRON[7301]: pam_unix(cron:session): session closed for user root
+Oct 18 10:46:01 ns380518 CRON[7344]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:46:02 ns380518 CRON[7344]: pam_unix(cron:session): session closed for user root
+Oct 18 10:47:01 ns380518 CRON[7387]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:47:01 ns380518 CRON[7387]: pam_unix(cron:session): session closed for user root
+Oct 18 10:48:01 ns380518 CRON[7430]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:48:01 ns380518 CRON[7430]: pam_unix(cron:session): session closed for user root
+Oct 18 10:49:01 ns380518 CRON[7473]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:49:01 ns380518 CRON[7473]: pam_unix(cron:session): session closed for user root
+Oct 18 10:50:01 ns380518 CRON[7516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:50:02 ns380518 CRON[7516]: pam_unix(cron:session): session closed for user root
+Oct 18 10:51:01 ns380518 CRON[7559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:51:01 ns380518 CRON[7559]: pam_unix(cron:session): session closed for user root
+Oct 18 10:52:01 ns380518 CRON[7602]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:52:01 ns380518 CRON[7602]: pam_unix(cron:session): session closed for user root
+Oct 18 10:53:01 ns380518 CRON[7645]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:53:02 ns380518 CRON[7645]: pam_unix(cron:session): session closed for user root
+Oct 18 10:54:01 ns380518 CRON[7688]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:54:01 ns380518 CRON[7688]: pam_unix(cron:session): session closed for user root
+Oct 18 10:55:01 ns380518 CRON[7731]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:55:01 ns380518 CRON[7731]: pam_unix(cron:session): session closed for user root
+Oct 18 10:56:01 ns380518 CRON[7774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:56:01 ns380518 CRON[7774]: pam_unix(cron:session): session closed for user root
+Oct 18 10:57:01 ns380518 CRON[7817]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:57:02 ns380518 CRON[7817]: pam_unix(cron:session): session closed for user root
+Oct 18 10:58:01 ns380518 CRON[7860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:58:01 ns380518 CRON[7860]: pam_unix(cron:session): session closed for user root
+Oct 18 10:59:01 ns380518 CRON[7903]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 10:59:01 ns380518 CRON[7903]: pam_unix(cron:session): session closed for user root
+Oct 18 11:00:01 ns380518 CRON[7946]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:00:02 ns380518 CRON[7946]: pam_unix(cron:session): session closed for user root
+Oct 18 11:01:01 ns380518 CRON[7989]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:01:01 ns380518 CRON[7989]: pam_unix(cron:session): session closed for user root
+Oct 18 11:02:01 ns380518 CRON[8032]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:02:01 ns380518 CRON[8032]: pam_unix(cron:session): session closed for user root
+Oct 18 11:03:01 ns380518 CRON[8075]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:03:01 ns380518 CRON[8075]: pam_unix(cron:session): session closed for user root
+Oct 18 11:04:01 ns380518 CRON[8118]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:04:02 ns380518 CRON[8118]: pam_unix(cron:session): session closed for user root
+Oct 18 11:05:01 ns380518 CRON[8162]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:05:01 ns380518 CRON[8162]: pam_unix(cron:session): session closed for user root
+Oct 18 11:06:01 ns380518 CRON[8205]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:06:01 ns380518 CRON[8205]: pam_unix(cron:session): session closed for user root
+Oct 18 11:07:01 ns380518 CRON[8248]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:07:01 ns380518 CRON[8248]: pam_unix(cron:session): session closed for user root
+Oct 18 11:08:02 ns380518 CRON[8291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:08:02 ns380518 CRON[8291]: pam_unix(cron:session): session closed for user root
+Oct 18 11:09:01 ns380518 CRON[8334]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:09:01 ns380518 CRON[8335]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:09:01 ns380518 CRON[8335]: pam_unix(cron:session): session closed for user root
+Oct 18 11:09:01 ns380518 CRON[8334]: pam_unix(cron:session): session closed for user root
+Oct 18 11:10:01 ns380518 CRON[8389]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:10:01 ns380518 CRON[8389]: pam_unix(cron:session): session closed for user root
+Oct 18 11:11:01 ns380518 CRON[8432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:11:02 ns380518 CRON[8432]: pam_unix(cron:session): session closed for user root
+Oct 18 11:12:01 ns380518 CRON[8475]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:12:01 ns380518 CRON[8475]: pam_unix(cron:session): session closed for user root
+Oct 18 11:13:01 ns380518 CRON[8518]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:13:01 ns380518 CRON[8518]: pam_unix(cron:session): session closed for user root
+Oct 18 11:14:01 ns380518 CRON[8561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:14:01 ns380518 CRON[8561]: pam_unix(cron:session): session closed for user root
+Oct 18 11:15:01 ns380518 CRON[8604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:15:02 ns380518 CRON[8604]: pam_unix(cron:session): session closed for user root
+Oct 18 11:16:01 ns380518 CRON[8647]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:16:01 ns380518 CRON[8647]: pam_unix(cron:session): session closed for user root
+Oct 18 11:17:01 ns380518 CRON[8690]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:17:01 ns380518 CRON[8691]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:17:01 ns380518 CRON[8691]: pam_unix(cron:session): session closed for user root
+Oct 18 11:17:01 ns380518 CRON[8690]: pam_unix(cron:session): session closed for user root
+Oct 18 11:18:01 ns380518 CRON[8736]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:18:02 ns380518 CRON[8736]: pam_unix(cron:session): session closed for user root
+Oct 18 11:19:01 ns380518 CRON[8779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:19:01 ns380518 CRON[8779]: pam_unix(cron:session): session closed for user root
+Oct 18 11:20:01 ns380518 CRON[8822]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:20:01 ns380518 CRON[8822]: pam_unix(cron:session): session closed for user root
+Oct 18 11:21:01 ns380518 CRON[8865]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:21:01 ns380518 CRON[8865]: pam_unix(cron:session): session closed for user root
+Oct 18 11:22:01 ns380518 CRON[8908]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:22:02 ns380518 CRON[8908]: pam_unix(cron:session): session closed for user root
+Oct 18 11:23:01 ns380518 CRON[8951]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:23:01 ns380518 CRON[8951]: pam_unix(cron:session): session closed for user root
+Oct 18 11:24:01 ns380518 CRON[8994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:24:01 ns380518 CRON[8994]: pam_unix(cron:session): session closed for user root
+Oct 18 11:25:01 ns380518 CRON[9051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:25:01 ns380518 CRON[9051]: pam_unix(cron:session): session closed for user root
+Oct 18 11:26:01 ns380518 CRON[9102]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:26:02 ns380518 CRON[9102]: pam_unix(cron:session): session closed for user root
+Oct 18 11:27:01 ns380518 CRON[9146]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:27:01 ns380518 CRON[9146]: pam_unix(cron:session): session closed for user root
+Oct 18 11:28:01 ns380518 CRON[9195]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:28:01 ns380518 CRON[9195]: pam_unix(cron:session): session closed for user root
+Oct 18 11:29:01 ns380518 CRON[9239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:29:02 ns380518 CRON[9239]: pam_unix(cron:session): session closed for user root
+Oct 18 11:30:01 ns380518 CRON[9283]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:30:01 ns380518 CRON[9283]: pam_unix(cron:session): session closed for user root
+Oct 18 11:31:01 ns380518 CRON[9326]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:31:01 ns380518 CRON[9326]: pam_unix(cron:session): session closed for user root
+Oct 18 11:32:01 ns380518 CRON[9373]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:32:01 ns380518 CRON[9373]: pam_unix(cron:session): session closed for user root
+Oct 18 11:33:01 ns380518 CRON[9416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:33:02 ns380518 CRON[9416]: pam_unix(cron:session): session closed for user root
+Oct 18 11:34:01 ns380518 CRON[9461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:34:01 ns380518 CRON[9461]: pam_unix(cron:session): session closed for user root
+Oct 18 11:35:01 ns380518 CRON[9504]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:35:01 ns380518 CRON[9504]: pam_unix(cron:session): session closed for user root
+Oct 18 11:36:01 ns380518 CRON[9547]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:36:01 ns380518 CRON[9547]: pam_unix(cron:session): session closed for user root
+Oct 18 11:37:01 ns380518 CRON[9590]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:37:02 ns380518 CRON[9590]: pam_unix(cron:session): session closed for user root
+Oct 18 11:38:01 ns380518 CRON[9633]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:38:01 ns380518 CRON[9633]: pam_unix(cron:session): session closed for user root
+Oct 18 11:39:01 ns380518 CRON[9676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:39:01 ns380518 CRON[9677]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:39:01 ns380518 CRON[9677]: pam_unix(cron:session): session closed for user root
+Oct 18 11:39:01 ns380518 CRON[9676]: pam_unix(cron:session): session closed for user root
+Oct 18 11:40:01 ns380518 CRON[9731]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:40:02 ns380518 CRON[9731]: pam_unix(cron:session): session closed for user root
+Oct 18 11:41:01 ns380518 CRON[9774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:41:02 ns380518 CRON[9774]: pam_unix(cron:session): session closed for user root
+Oct 18 11:42:01 ns380518 CRON[9856]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:42:02 ns380518 CRON[9856]: pam_unix(cron:session): session closed for user root
+Oct 18 11:43:01 ns380518 CRON[9915]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:43:01 ns380518 CRON[9915]: pam_unix(cron:session): session closed for user root
+Oct 18 11:44:01 ns380518 CRON[9958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:44:01 ns380518 CRON[9958]: pam_unix(cron:session): session closed for user root
+Oct 18 11:45:01 ns380518 CRON[10001]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:45:01 ns380518 CRON[10001]: pam_unix(cron:session): session closed for user root
+Oct 18 11:46:01 ns380518 CRON[10044]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:46:02 ns380518 CRON[10044]: pam_unix(cron:session): session closed for user root
+Oct 18 11:47:01 ns380518 CRON[10087]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:47:01 ns380518 CRON[10087]: pam_unix(cron:session): session closed for user root
+Oct 18 11:48:01 ns380518 CRON[10131]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:48:01 ns380518 CRON[10131]: pam_unix(cron:session): session closed for user root
+Oct 18 11:49:01 ns380518 CRON[10174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:49:01 ns380518 CRON[10174]: pam_unix(cron:session): session closed for user root
+Oct 18 11:50:02 ns380518 CRON[10217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:50:02 ns380518 CRON[10217]: pam_unix(cron:session): session closed for user root
+Oct 18 11:51:01 ns380518 CRON[10260]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:51:01 ns380518 CRON[10260]: pam_unix(cron:session): session closed for user root
+Oct 18 11:52:01 ns380518 CRON[10303]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:52:01 ns380518 CRON[10303]: pam_unix(cron:session): session closed for user root
+Oct 18 11:53:01 ns380518 CRON[10346]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:53:02 ns380518 CRON[10346]: pam_unix(cron:session): session closed for user root
+Oct 18 11:54:01 ns380518 CRON[10389]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:54:01 ns380518 CRON[10389]: pam_unix(cron:session): session closed for user root
+Oct 18 11:55:01 ns380518 CRON[10432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:55:01 ns380518 CRON[10432]: pam_unix(cron:session): session closed for user root
+Oct 18 11:56:01 ns380518 CRON[10475]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:56:01 ns380518 CRON[10475]: pam_unix(cron:session): session closed for user root
+Oct 18 11:57:01 ns380518 CRON[10518]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:57:02 ns380518 CRON[10518]: pam_unix(cron:session): session closed for user root
+Oct 18 11:58:01 ns380518 CRON[10561]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:58:01 ns380518 CRON[10561]: pam_unix(cron:session): session closed for user root
+Oct 18 11:59:01 ns380518 CRON[10604]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 11:59:01 ns380518 CRON[10604]: pam_unix(cron:session): session closed for user root
+Oct 18 12:00:01 ns380518 CRON[10647]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:00:02 ns380518 CRON[10647]: pam_unix(cron:session): session closed for user root
+Oct 18 12:01:01 ns380518 CRON[10690]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:01:01 ns380518 CRON[10690]: pam_unix(cron:session): session closed for user root
+Oct 18 12:02:01 ns380518 CRON[10733]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:02:01 ns380518 CRON[10733]: pam_unix(cron:session): session closed for user root
+Oct 18 12:03:01 ns380518 CRON[10776]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:03:01 ns380518 CRON[10776]: pam_unix(cron:session): session closed for user root
+Oct 18 12:04:01 ns380518 CRON[10819]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:04:02 ns380518 CRON[10819]: pam_unix(cron:session): session closed for user root
+Oct 18 12:05:01 ns380518 CRON[10862]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:05:01 ns380518 CRON[10862]: pam_unix(cron:session): session closed for user root
+Oct 18 12:06:01 ns380518 CRON[10905]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:06:01 ns380518 CRON[10905]: pam_unix(cron:session): session closed for user root
+Oct 18 12:07:01 ns380518 CRON[10948]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:07:01 ns380518 CRON[10948]: pam_unix(cron:session): session closed for user root
+Oct 18 12:08:01 ns380518 CRON[10991]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:08:02 ns380518 CRON[10991]: pam_unix(cron:session): session closed for user root
+Oct 18 12:09:01 ns380518 CRON[11034]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:09:01 ns380518 CRON[11035]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:09:01 ns380518 CRON[11035]: pam_unix(cron:session): session closed for user root
+Oct 18 12:09:01 ns380518 CRON[11034]: pam_unix(cron:session): session closed for user root
+Oct 18 12:10:01 ns380518 CRON[11089]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:10:01 ns380518 CRON[11089]: pam_unix(cron:session): session closed for user root
+Oct 18 12:11:01 ns380518 CRON[11132]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:11:02 ns380518 CRON[11132]: pam_unix(cron:session): session closed for user root
+Oct 18 12:12:01 ns380518 CRON[11175]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:12:01 ns380518 CRON[11175]: pam_unix(cron:session): session closed for user root
+Oct 18 12:13:01 ns380518 CRON[11218]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:13:01 ns380518 CRON[11218]: pam_unix(cron:session): session closed for user root
+Oct 18 12:14:01 ns380518 CRON[11261]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:14:01 ns380518 CRON[11261]: pam_unix(cron:session): session closed for user root
+Oct 18 12:15:01 ns380518 CRON[11304]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:15:02 ns380518 CRON[11304]: pam_unix(cron:session): session closed for user root
+Oct 18 12:16:01 ns380518 CRON[11347]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:16:01 ns380518 CRON[11347]: pam_unix(cron:session): session closed for user root
+Oct 18 12:17:01 ns380518 CRON[11390]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:17:01 ns380518 CRON[11391]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:17:01 ns380518 CRON[11391]: pam_unix(cron:session): session closed for user root
+Oct 18 12:17:01 ns380518 CRON[11390]: pam_unix(cron:session): session closed for user root
+Oct 18 12:18:01 ns380518 CRON[11436]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:18:02 ns380518 CRON[11436]: pam_unix(cron:session): session closed for user root
+Oct 18 12:19:01 ns380518 CRON[11479]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:19:01 ns380518 CRON[11479]: pam_unix(cron:session): session closed for user root
+Oct 18 12:20:01 ns380518 CRON[11522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:20:01 ns380518 CRON[11522]: pam_unix(cron:session): session closed for user root
+Oct 18 12:21:01 ns380518 CRON[11565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:21:01 ns380518 CRON[11565]: pam_unix(cron:session): session closed for user root
+Oct 18 12:22:01 ns380518 CRON[11608]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:22:02 ns380518 CRON[11608]: pam_unix(cron:session): session closed for user root
+Oct 18 12:23:01 ns380518 CRON[11651]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:23:01 ns380518 CRON[11651]: pam_unix(cron:session): session closed for user root
+Oct 18 12:24:01 ns380518 CRON[11694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:24:01 ns380518 CRON[11694]: pam_unix(cron:session): session closed for user root
+Oct 18 12:25:01 ns380518 CRON[11737]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:25:01 ns380518 CRON[11737]: pam_unix(cron:session): session closed for user root
+Oct 18 12:26:01 ns380518 CRON[11780]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:26:02 ns380518 CRON[11780]: pam_unix(cron:session): session closed for user root
+Oct 18 12:27:01 ns380518 CRON[11823]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:27:01 ns380518 CRON[11823]: pam_unix(cron:session): session closed for user root
+Oct 18 12:28:01 ns380518 CRON[11866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:28:01 ns380518 CRON[11866]: pam_unix(cron:session): session closed for user root
+Oct 18 12:29:01 ns380518 CRON[11909]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:29:02 ns380518 CRON[11909]: pam_unix(cron:session): session closed for user root
+Oct 18 12:30:01 ns380518 CRON[11952]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:30:01 ns380518 CRON[11952]: pam_unix(cron:session): session closed for user root
+Oct 18 12:31:01 ns380518 CRON[11995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:31:01 ns380518 CRON[11995]: pam_unix(cron:session): session closed for user root
+Oct 18 12:32:01 ns380518 CRON[12038]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:32:01 ns380518 CRON[12038]: pam_unix(cron:session): session closed for user root
+Oct 18 12:33:01 ns380518 CRON[12081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:33:02 ns380518 CRON[12081]: pam_unix(cron:session): session closed for user root
+Oct 18 12:34:01 ns380518 CRON[12124]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:34:01 ns380518 CRON[12124]: pam_unix(cron:session): session closed for user root
+Oct 18 12:35:01 ns380518 CRON[12167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:35:01 ns380518 CRON[12167]: pam_unix(cron:session): session closed for user root
+Oct 18 12:36:01 ns380518 CRON[12210]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:36:01 ns380518 CRON[12210]: pam_unix(cron:session): session closed for user root
+Oct 18 12:37:01 ns380518 CRON[12253]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:37:02 ns380518 CRON[12253]: pam_unix(cron:session): session closed for user root
+Oct 18 12:38:01 ns380518 CRON[12296]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:38:01 ns380518 CRON[12296]: pam_unix(cron:session): session closed for user root
+Oct 18 12:39:01 ns380518 CRON[12339]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:39:01 ns380518 CRON[12340]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:39:01 ns380518 CRON[12340]: pam_unix(cron:session): session closed for user root
+Oct 18 12:39:01 ns380518 CRON[12339]: pam_unix(cron:session): session closed for user root
+Oct 18 12:40:01 ns380518 CRON[12394]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:40:02 ns380518 CRON[12394]: pam_unix(cron:session): session closed for user root
+Oct 18 12:41:01 ns380518 CRON[12437]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:41:02 ns380518 CRON[12437]: pam_unix(cron:session): session closed for user root
+Oct 18 12:42:01 ns380518 CRON[12519]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:42:02 ns380518 CRON[12519]: pam_unix(cron:session): session closed for user root
+Oct 18 12:43:01 ns380518 CRON[12562]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:43:01 ns380518 CRON[12562]: pam_unix(cron:session): session closed for user root
+Oct 18 12:44:01 ns380518 CRON[12605]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:44:01 ns380518 CRON[12605]: pam_unix(cron:session): session closed for user root
+Oct 18 12:45:01 ns380518 CRON[12648]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:45:01 ns380518 CRON[12648]: pam_unix(cron:session): session closed for user root
+Oct 18 12:46:01 ns380518 CRON[12691]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:46:02 ns380518 CRON[12691]: pam_unix(cron:session): session closed for user root
+Oct 18 12:47:01 ns380518 CRON[12734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:47:01 ns380518 CRON[12734]: pam_unix(cron:session): session closed for user root
+Oct 18 12:48:01 ns380518 CRON[12777]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:48:01 ns380518 CRON[12777]: pam_unix(cron:session): session closed for user root
+Oct 18 12:49:01 ns380518 CRON[12820]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:49:02 ns380518 CRON[12820]: pam_unix(cron:session): session closed for user root
+Oct 18 12:50:01 ns380518 CRON[12863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:50:01 ns380518 CRON[12863]: pam_unix(cron:session): session closed for user root
+Oct 18 12:51:01 ns380518 CRON[12906]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:51:01 ns380518 CRON[12906]: pam_unix(cron:session): session closed for user root
+Oct 18 12:52:01 ns380518 CRON[12949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:52:01 ns380518 CRON[12949]: pam_unix(cron:session): session closed for user root
+Oct 18 12:53:01 ns380518 CRON[12992]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:53:02 ns380518 CRON[12992]: pam_unix(cron:session): session closed for user root
+Oct 18 12:54:01 ns380518 CRON[13035]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:54:01 ns380518 CRON[13035]: pam_unix(cron:session): session closed for user root
+Oct 18 12:55:01 ns380518 CRON[13078]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:55:01 ns380518 CRON[13078]: pam_unix(cron:session): session closed for user root
+Oct 18 12:56:01 ns380518 CRON[13121]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:56:02 ns380518 CRON[13121]: pam_unix(cron:session): session closed for user root
+Oct 18 12:57:01 ns380518 CRON[13164]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:57:01 ns380518 CRON[13164]: pam_unix(cron:session): session closed for user root
+Oct 18 12:58:01 ns380518 CRON[13207]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:58:01 ns380518 CRON[13207]: pam_unix(cron:session): session closed for user root
+Oct 18 12:59:01 ns380518 CRON[13250]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 12:59:01 ns380518 CRON[13250]: pam_unix(cron:session): session closed for user root
+Oct 18 13:00:01 ns380518 CRON[13293]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:00:02 ns380518 CRON[13293]: pam_unix(cron:session): session closed for user root
+Oct 18 13:01:01 ns380518 CRON[13336]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:01:01 ns380518 CRON[13336]: pam_unix(cron:session): session closed for user root
+Oct 18 13:02:01 ns380518 CRON[13379]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:02:01 ns380518 CRON[13379]: pam_unix(cron:session): session closed for user root
+Oct 18 13:03:01 ns380518 CRON[13422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:03:01 ns380518 CRON[13422]: pam_unix(cron:session): session closed for user root
+Oct 18 13:04:01 ns380518 CRON[13465]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:04:02 ns380518 CRON[13465]: pam_unix(cron:session): session closed for user root
+Oct 18 13:05:01 ns380518 CRON[13508]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:05:01 ns380518 CRON[13508]: pam_unix(cron:session): session closed for user root
+Oct 18 13:06:01 ns380518 CRON[13551]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:06:01 ns380518 CRON[13551]: pam_unix(cron:session): session closed for user root
+Oct 18 13:07:01 ns380518 CRON[13594]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:07:02 ns380518 CRON[13594]: pam_unix(cron:session): session closed for user root
+Oct 18 13:08:01 ns380518 CRON[13637]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:08:01 ns380518 CRON[13637]: pam_unix(cron:session): session closed for user root
+Oct 18 13:09:01 ns380518 CRON[13680]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:09:01 ns380518 CRON[13681]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:09:01 ns380518 CRON[13681]: pam_unix(cron:session): session closed for user root
+Oct 18 13:09:01 ns380518 CRON[13680]: pam_unix(cron:session): session closed for user root
+Oct 18 13:10:01 ns380518 CRON[13735]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:10:01 ns380518 CRON[13735]: pam_unix(cron:session): session closed for user root
+Oct 18 13:11:01 ns380518 CRON[13778]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:11:02 ns380518 CRON[13778]: pam_unix(cron:session): session closed for user root
+Oct 18 13:12:01 ns380518 CRON[13821]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:12:01 ns380518 CRON[13821]: pam_unix(cron:session): session closed for user root
+Oct 18 13:13:01 ns380518 CRON[13864]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:13:01 ns380518 CRON[13864]: pam_unix(cron:session): session closed for user root
+Oct 18 13:14:01 ns380518 CRON[13907]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:14:02 ns380518 CRON[13907]: pam_unix(cron:session): session closed for user root
+Oct 18 13:15:01 ns380518 CRON[13950]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:15:01 ns380518 CRON[13950]: pam_unix(cron:session): session closed for user root
+Oct 18 13:16:01 ns380518 CRON[13993]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:16:01 ns380518 CRON[13993]: pam_unix(cron:session): session closed for user root
+Oct 18 13:17:01 ns380518 CRON[14036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:17:01 ns380518 CRON[14037]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:17:01 ns380518 CRON[14037]: pam_unix(cron:session): session closed for user root
+Oct 18 13:17:01 ns380518 CRON[14036]: pam_unix(cron:session): session closed for user root
+Oct 18 13:18:01 ns380518 CRON[14082]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:18:02 ns380518 CRON[14082]: pam_unix(cron:session): session closed for user root
+Oct 18 13:19:01 ns380518 CRON[14125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:19:01 ns380518 CRON[14125]: pam_unix(cron:session): session closed for user root
+Oct 18 13:20:01 ns380518 CRON[14168]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:20:01 ns380518 CRON[14168]: pam_unix(cron:session): session closed for user root
+Oct 18 13:21:01 ns380518 CRON[14211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:21:01 ns380518 CRON[14211]: pam_unix(cron:session): session closed for user root
+Oct 18 13:22:01 ns380518 CRON[14254]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:22:02 ns380518 CRON[14254]: pam_unix(cron:session): session closed for user root
+Oct 18 13:23:01 ns380518 CRON[14297]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:23:01 ns380518 CRON[14297]: pam_unix(cron:session): session closed for user root
+Oct 18 13:24:01 ns380518 CRON[14340]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:24:01 ns380518 CRON[14340]: pam_unix(cron:session): session closed for user root
+Oct 18 13:25:01 ns380518 CRON[14383]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:25:02 ns380518 CRON[14383]: pam_unix(cron:session): session closed for user root
+Oct 18 13:26:01 ns380518 CRON[14426]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:26:01 ns380518 CRON[14426]: pam_unix(cron:session): session closed for user root
+Oct 18 13:27:01 ns380518 CRON[14469]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:27:01 ns380518 CRON[14469]: pam_unix(cron:session): session closed for user root
+Oct 18 13:28:01 ns380518 CRON[14512]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:28:01 ns380518 CRON[14512]: pam_unix(cron:session): session closed for user root
+Oct 18 13:29:01 ns380518 CRON[14555]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:29:02 ns380518 CRON[14555]: pam_unix(cron:session): session closed for user root
+Oct 18 13:30:01 ns380518 CRON[14598]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:30:01 ns380518 CRON[14598]: pam_unix(cron:session): session closed for user root
+Oct 18 13:31:01 ns380518 CRON[14641]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:31:01 ns380518 CRON[14641]: pam_unix(cron:session): session closed for user root
+Oct 18 13:32:01 ns380518 CRON[14684]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:32:01 ns380518 CRON[14684]: pam_unix(cron:session): session closed for user root
+Oct 18 13:33:01 ns380518 CRON[14727]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:33:02 ns380518 CRON[14727]: pam_unix(cron:session): session closed for user root
+Oct 18 13:34:01 ns380518 CRON[14770]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:34:01 ns380518 CRON[14770]: pam_unix(cron:session): session closed for user root
+Oct 18 13:35:01 ns380518 CRON[14813]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:35:01 ns380518 CRON[14813]: pam_unix(cron:session): session closed for user root
+Oct 18 13:36:01 ns380518 CRON[14856]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:36:02 ns380518 CRON[14856]: pam_unix(cron:session): session closed for user root
+Oct 18 13:37:01 ns380518 CRON[14899]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:37:01 ns380518 CRON[14899]: pam_unix(cron:session): session closed for user root
+Oct 18 13:38:01 ns380518 CRON[14942]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:38:01 ns380518 CRON[14942]: pam_unix(cron:session): session closed for user root
+Oct 18 13:39:01 ns380518 CRON[14985]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:39:01 ns380518 CRON[14986]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:39:01 ns380518 CRON[14986]: pam_unix(cron:session): session closed for user root
+Oct 18 13:39:01 ns380518 CRON[14985]: pam_unix(cron:session): session closed for user root
+Oct 18 13:40:01 ns380518 CRON[15040]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:40:02 ns380518 CRON[15040]: pam_unix(cron:session): session closed for user root
+Oct 18 13:41:01 ns380518 CRON[15083]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:41:02 ns380518 CRON[15083]: pam_unix(cron:session): session closed for user root
+Oct 18 13:42:01 ns380518 CRON[15165]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:42:02 ns380518 CRON[15165]: pam_unix(cron:session): session closed for user root
+Oct 18 13:43:01 ns380518 CRON[15208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:43:01 ns380518 CRON[15208]: pam_unix(cron:session): session closed for user root
+Oct 18 13:44:01 ns380518 CRON[15251]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:44:01 ns380518 CRON[15251]: pam_unix(cron:session): session closed for user root
+Oct 18 13:45:01 ns380518 CRON[15294]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:45:02 ns380518 CRON[15294]: pam_unix(cron:session): session closed for user root
+Oct 18 13:46:01 ns380518 CRON[15337]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:46:01 ns380518 CRON[15337]: pam_unix(cron:session): session closed for user root
+Oct 18 13:47:01 ns380518 CRON[15380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:47:01 ns380518 CRON[15380]: pam_unix(cron:session): session closed for user root
+Oct 18 13:48:01 ns380518 CRON[15423]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:48:01 ns380518 CRON[15423]: pam_unix(cron:session): session closed for user root
+Oct 18 13:49:01 ns380518 CRON[15466]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:49:02 ns380518 CRON[15466]: pam_unix(cron:session): session closed for user root
+Oct 18 13:50:01 ns380518 CRON[15509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:50:01 ns380518 CRON[15509]: pam_unix(cron:session): session closed for user root
+Oct 18 13:51:01 ns380518 CRON[15552]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:51:01 ns380518 CRON[15552]: pam_unix(cron:session): session closed for user root
+Oct 18 13:52:01 ns380518 CRON[15595]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:52:01 ns380518 CRON[15595]: pam_unix(cron:session): session closed for user root
+Oct 18 13:53:01 ns380518 CRON[15638]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:53:02 ns380518 CRON[15638]: pam_unix(cron:session): session closed for user root
+Oct 18 13:54:01 ns380518 CRON[15681]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:54:01 ns380518 CRON[15681]: pam_unix(cron:session): session closed for user root
+Oct 18 13:55:01 ns380518 CRON[15724]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:55:01 ns380518 CRON[15724]: pam_unix(cron:session): session closed for user root
+Oct 18 13:56:01 ns380518 CRON[15767]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:56:02 ns380518 CRON[15767]: pam_unix(cron:session): session closed for user root
+Oct 18 13:57:01 ns380518 CRON[15810]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:57:01 ns380518 CRON[15810]: pam_unix(cron:session): session closed for user root
+Oct 18 13:58:01 ns380518 CRON[15853]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:58:01 ns380518 CRON[15853]: pam_unix(cron:session): session closed for user root
+Oct 18 13:59:01 ns380518 CRON[15896]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 13:59:01 ns380518 CRON[15896]: pam_unix(cron:session): session closed for user root
+Oct 18 14:00:01 ns380518 CRON[15939]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:00:02 ns380518 CRON[15939]: pam_unix(cron:session): session closed for user root
+Oct 18 14:01:01 ns380518 CRON[15982]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:01:01 ns380518 CRON[15982]: pam_unix(cron:session): session closed for user root
+Oct 18 14:02:01 ns380518 CRON[16025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:02:01 ns380518 CRON[16025]: pam_unix(cron:session): session closed for user root
+Oct 18 14:03:01 ns380518 CRON[16068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:03:01 ns380518 CRON[16068]: pam_unix(cron:session): session closed for user root
+Oct 18 14:04:01 ns380518 CRON[16111]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:04:02 ns380518 CRON[16111]: pam_unix(cron:session): session closed for user root
+Oct 18 14:05:01 ns380518 CRON[16154]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:05:01 ns380518 CRON[16154]: pam_unix(cron:session): session closed for user root
+Oct 18 14:06:01 ns380518 CRON[16197]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:06:01 ns380518 CRON[16197]: pam_unix(cron:session): session closed for user root
+Oct 18 14:07:01 ns380518 CRON[16240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:07:02 ns380518 CRON[16240]: pam_unix(cron:session): session closed for user root
+Oct 18 14:08:01 ns380518 CRON[16283]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:08:01 ns380518 CRON[16283]: pam_unix(cron:session): session closed for user root
+Oct 18 14:09:01 ns380518 CRON[16326]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:09:01 ns380518 CRON[16327]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:09:01 ns380518 CRON[16327]: pam_unix(cron:session): session closed for user root
+Oct 18 14:09:01 ns380518 CRON[16326]: pam_unix(cron:session): session closed for user root
+Oct 18 14:10:01 ns380518 CRON[16381]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:10:01 ns380518 CRON[16381]: pam_unix(cron:session): session closed for user root
+Oct 18 14:11:01 ns380518 CRON[16424]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:11:02 ns380518 CRON[16424]: pam_unix(cron:session): session closed for user root
+Oct 18 14:12:01 ns380518 CRON[16467]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:12:01 ns380518 CRON[16467]: pam_unix(cron:session): session closed for user root
+Oct 18 14:13:01 ns380518 CRON[16510]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:13:01 ns380518 CRON[16510]: pam_unix(cron:session): session closed for user root
+Oct 18 14:14:01 ns380518 CRON[16553]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:14:01 ns380518 CRON[16553]: pam_unix(cron:session): session closed for user root
+Oct 18 14:15:01 ns380518 CRON[16596]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:15:02 ns380518 CRON[16596]: pam_unix(cron:session): session closed for user root
+Oct 18 14:16:01 ns380518 CRON[16639]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:16:01 ns380518 CRON[16639]: pam_unix(cron:session): session closed for user root
+Oct 18 14:17:01 ns380518 CRON[16682]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:17:01 ns380518 CRON[16683]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:17:01 ns380518 CRON[16683]: pam_unix(cron:session): session closed for user root
+Oct 18 14:17:01 ns380518 CRON[16682]: pam_unix(cron:session): session closed for user root
+Oct 18 14:18:01 ns380518 CRON[16728]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:18:02 ns380518 CRON[16728]: pam_unix(cron:session): session closed for user root
+Oct 18 14:19:01 ns380518 CRON[16771]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:19:01 ns380518 CRON[16771]: pam_unix(cron:session): session closed for user root
+Oct 18 14:20:01 ns380518 CRON[16814]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:20:01 ns380518 CRON[16814]: pam_unix(cron:session): session closed for user root
+Oct 18 14:21:01 ns380518 CRON[16857]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:21:01 ns380518 CRON[16857]: pam_unix(cron:session): session closed for user root
+Oct 18 14:22:01 ns380518 CRON[16900]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:22:02 ns380518 CRON[16900]: pam_unix(cron:session): session closed for user root
+Oct 18 14:23:01 ns380518 CRON[16943]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:23:01 ns380518 CRON[16943]: pam_unix(cron:session): session closed for user root
+Oct 18 14:24:01 ns380518 CRON[16986]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:24:01 ns380518 CRON[16986]: pam_unix(cron:session): session closed for user root
+Oct 18 14:25:01 ns380518 CRON[17029]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:25:02 ns380518 CRON[17029]: pam_unix(cron:session): session closed for user root
+Oct 18 14:26:01 ns380518 CRON[17072]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:26:01 ns380518 CRON[17072]: pam_unix(cron:session): session closed for user root
+Oct 18 14:27:01 ns380518 CRON[17115]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:27:01 ns380518 CRON[17115]: pam_unix(cron:session): session closed for user root
+Oct 18 14:28:01 ns380518 CRON[17158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:28:01 ns380518 CRON[17158]: pam_unix(cron:session): session closed for user root
+Oct 18 14:29:01 ns380518 CRON[17201]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:29:02 ns380518 CRON[17201]: pam_unix(cron:session): session closed for user root
+Oct 18 14:30:01 ns380518 CRON[17244]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:30:01 ns380518 CRON[17244]: pam_unix(cron:session): session closed for user root
+Oct 18 14:31:01 ns380518 CRON[17287]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:31:01 ns380518 CRON[17287]: pam_unix(cron:session): session closed for user root
+Oct 18 14:32:01 ns380518 CRON[17330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:32:01 ns380518 CRON[17330]: pam_unix(cron:session): session closed for user root
+Oct 18 14:33:01 ns380518 CRON[17373]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:33:02 ns380518 CRON[17373]: pam_unix(cron:session): session closed for user root
+Oct 18 14:34:01 ns380518 CRON[17416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:34:01 ns380518 CRON[17416]: pam_unix(cron:session): session closed for user root
+Oct 18 14:35:01 ns380518 CRON[17459]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:35:01 ns380518 CRON[17459]: pam_unix(cron:session): session closed for user root
+Oct 18 14:36:01 ns380518 CRON[17502]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:36:02 ns380518 CRON[17502]: pam_unix(cron:session): session closed for user root
+Oct 18 14:37:01 ns380518 CRON[17545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:37:01 ns380518 CRON[17545]: pam_unix(cron:session): session closed for user root
+Oct 18 14:38:01 ns380518 CRON[17588]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:38:01 ns380518 CRON[17588]: pam_unix(cron:session): session closed for user root
+Oct 18 14:39:01 ns380518 CRON[17631]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:39:01 ns380518 CRON[17632]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:39:01 ns380518 CRON[17632]: pam_unix(cron:session): session closed for user root
+Oct 18 14:39:01 ns380518 CRON[17631]: pam_unix(cron:session): session closed for user root
+Oct 18 14:40:01 ns380518 CRON[17686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:40:02 ns380518 CRON[17686]: pam_unix(cron:session): session closed for user root
+Oct 18 14:41:01 ns380518 CRON[17729]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:41:02 ns380518 CRON[17729]: pam_unix(cron:session): session closed for user root
+Oct 18 14:42:02 ns380518 CRON[17812]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:42:02 ns380518 CRON[17812]: pam_unix(cron:session): session closed for user root
+Oct 18 14:43:01 ns380518 CRON[17855]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:43:01 ns380518 CRON[17855]: pam_unix(cron:session): session closed for user root
+Oct 18 14:44:01 ns380518 CRON[17898]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:44:01 ns380518 CRON[17898]: pam_unix(cron:session): session closed for user root
+Oct 18 14:45:01 ns380518 CRON[17941]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:45:02 ns380518 CRON[17941]: pam_unix(cron:session): session closed for user root
+Oct 18 14:46:01 ns380518 CRON[17984]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:46:01 ns380518 CRON[17984]: pam_unix(cron:session): session closed for user root
+Oct 18 14:47:01 ns380518 CRON[18027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:47:01 ns380518 CRON[18027]: pam_unix(cron:session): session closed for user root
+Oct 18 14:48:01 ns380518 CRON[18070]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:48:01 ns380518 CRON[18070]: pam_unix(cron:session): session closed for user root
+Oct 18 14:49:01 ns380518 CRON[18113]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:49:02 ns380518 CRON[18113]: pam_unix(cron:session): session closed for user root
+Oct 18 14:50:01 ns380518 CRON[18156]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:50:01 ns380518 CRON[18156]: pam_unix(cron:session): session closed for user root
+Oct 18 14:51:01 ns380518 CRON[18199]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:51:01 ns380518 CRON[18199]: pam_unix(cron:session): session closed for user root
+Oct 18 14:52:01 ns380518 CRON[18242]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:52:02 ns380518 CRON[18242]: pam_unix(cron:session): session closed for user root
+Oct 18 14:53:01 ns380518 CRON[18285]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:53:01 ns380518 CRON[18285]: pam_unix(cron:session): session closed for user root
+Oct 18 14:54:01 ns380518 CRON[18328]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:54:01 ns380518 CRON[18328]: pam_unix(cron:session): session closed for user root
+Oct 18 14:55:01 ns380518 CRON[18371]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:55:01 ns380518 CRON[18371]: pam_unix(cron:session): session closed for user root
+Oct 18 14:56:01 ns380518 CRON[18414]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:56:02 ns380518 CRON[18414]: pam_unix(cron:session): session closed for user root
+Oct 18 14:57:01 ns380518 CRON[18457]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:57:01 ns380518 CRON[18457]: pam_unix(cron:session): session closed for user root
+Oct 18 14:58:01 ns380518 CRON[18500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:58:01 ns380518 CRON[18500]: pam_unix(cron:session): session closed for user root
+Oct 18 14:59:01 ns380518 CRON[18543]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 14:59:02 ns380518 CRON[18543]: pam_unix(cron:session): session closed for user root
+Oct 18 15:00:01 ns380518 CRON[18586]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:00:01 ns380518 CRON[18586]: pam_unix(cron:session): session closed for user root
+Oct 18 15:01:01 ns380518 CRON[18629]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:01:01 ns380518 CRON[18629]: pam_unix(cron:session): session closed for user root
+Oct 18 15:02:01 ns380518 CRON[18672]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:02:01 ns380518 CRON[18672]: pam_unix(cron:session): session closed for user root
+Oct 18 15:03:01 ns380518 CRON[18715]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:03:02 ns380518 CRON[18715]: pam_unix(cron:session): session closed for user root
+Oct 18 15:04:01 ns380518 CRON[18758]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:04:01 ns380518 CRON[18758]: pam_unix(cron:session): session closed for user root
+Oct 18 15:05:01 ns380518 CRON[18801]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:05:01 ns380518 CRON[18801]: pam_unix(cron:session): session closed for user root
+Oct 18 15:06:01 ns380518 CRON[18844]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:06:01 ns380518 CRON[18844]: pam_unix(cron:session): session closed for user root
+Oct 18 15:07:01 ns380518 CRON[18887]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:07:02 ns380518 CRON[18887]: pam_unix(cron:session): session closed for user root
+Oct 18 15:08:01 ns380518 CRON[18930]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:08:01 ns380518 CRON[18930]: pam_unix(cron:session): session closed for user root
+Oct 18 15:09:01 ns380518 CRON[18973]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:09:01 ns380518 CRON[18974]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:09:01 ns380518 CRON[18974]: pam_unix(cron:session): session closed for user root
+Oct 18 15:09:01 ns380518 CRON[18973]: pam_unix(cron:session): session closed for user root
+Oct 18 15:10:01 ns380518 CRON[19028]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:10:02 ns380518 CRON[19028]: pam_unix(cron:session): session closed for user root
+Oct 18 15:11:01 ns380518 CRON[19071]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:11:01 ns380518 CRON[19071]: pam_unix(cron:session): session closed for user root
+Oct 18 15:12:01 ns380518 CRON[19114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:12:01 ns380518 CRON[19114]: pam_unix(cron:session): session closed for user root
+Oct 18 15:13:01 ns380518 CRON[19157]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:13:01 ns380518 CRON[19157]: pam_unix(cron:session): session closed for user root
+Oct 18 15:14:01 ns380518 CRON[19200]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:14:02 ns380518 CRON[19200]: pam_unix(cron:session): session closed for user root
+Oct 18 15:15:01 ns380518 CRON[19243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:15:01 ns380518 CRON[19243]: pam_unix(cron:session): session closed for user root
+Oct 18 15:16:01 ns380518 CRON[19286]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:16:01 ns380518 CRON[19286]: pam_unix(cron:session): session closed for user root
+Oct 18 15:17:01 ns380518 CRON[19329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:17:01 ns380518 CRON[19330]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:17:01 ns380518 CRON[19330]: pam_unix(cron:session): session closed for user root
+Oct 18 15:17:01 ns380518 CRON[19329]: pam_unix(cron:session): session closed for user root
+Oct 18 15:18:01 ns380518 CRON[19375]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:18:02 ns380518 CRON[19375]: pam_unix(cron:session): session closed for user root
+Oct 18 15:19:01 ns380518 CRON[19418]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:19:01 ns380518 CRON[19418]: pam_unix(cron:session): session closed for user root
+Oct 18 15:20:01 ns380518 CRON[19461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:20:01 ns380518 CRON[19461]: pam_unix(cron:session): session closed for user root
+Oct 18 15:21:01 ns380518 CRON[19504]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:21:02 ns380518 CRON[19504]: pam_unix(cron:session): session closed for user root
+Oct 18 15:22:01 ns380518 CRON[19547]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:22:01 ns380518 CRON[19547]: pam_unix(cron:session): session closed for user root
+Oct 18 15:23:01 ns380518 CRON[19590]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:23:01 ns380518 CRON[19590]: pam_unix(cron:session): session closed for user root
+Oct 18 15:24:01 ns380518 CRON[19633]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:24:01 ns380518 CRON[19633]: pam_unix(cron:session): session closed for user root
+Oct 18 15:25:01 ns380518 CRON[19676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:25:02 ns380518 CRON[19676]: pam_unix(cron:session): session closed for user root
+Oct 18 15:26:01 ns380518 CRON[19719]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:26:01 ns380518 CRON[19719]: pam_unix(cron:session): session closed for user root
+Oct 18 15:27:01 ns380518 CRON[19762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:27:01 ns380518 CRON[19762]: pam_unix(cron:session): session closed for user root
+Oct 18 15:28:01 ns380518 CRON[19805]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:28:01 ns380518 CRON[19805]: pam_unix(cron:session): session closed for user root
+Oct 18 15:29:02 ns380518 CRON[19848]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:29:02 ns380518 CRON[19848]: pam_unix(cron:session): session closed for user root
+Oct 18 15:30:01 ns380518 CRON[19891]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:30:01 ns380518 CRON[19891]: pam_unix(cron:session): session closed for user root
+Oct 18 15:31:01 ns380518 CRON[19934]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:31:01 ns380518 CRON[19934]: pam_unix(cron:session): session closed for user root
+Oct 18 15:32:01 ns380518 CRON[19977]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:32:02 ns380518 CRON[19977]: pam_unix(cron:session): session closed for user root
+Oct 18 15:33:01 ns380518 CRON[20020]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:33:01 ns380518 CRON[20020]: pam_unix(cron:session): session closed for user root
+Oct 18 15:34:01 ns380518 CRON[20063]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:34:01 ns380518 CRON[20063]: pam_unix(cron:session): session closed for user root
+Oct 18 15:35:01 ns380518 CRON[20106]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:35:01 ns380518 CRON[20106]: pam_unix(cron:session): session closed for user root
+Oct 18 15:36:01 ns380518 CRON[20149]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:36:02 ns380518 CRON[20149]: pam_unix(cron:session): session closed for user root
+Oct 18 15:37:01 ns380518 CRON[20192]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:37:01 ns380518 CRON[20192]: pam_unix(cron:session): session closed for user root
+Oct 18 15:38:01 ns380518 CRON[20235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:38:01 ns380518 CRON[20235]: pam_unix(cron:session): session closed for user root
+Oct 18 15:39:01 ns380518 CRON[20278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:39:01 ns380518 CRON[20279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:39:01 ns380518 CRON[20279]: pam_unix(cron:session): session closed for user root
+Oct 18 15:39:02 ns380518 CRON[20278]: pam_unix(cron:session): session closed for user root
+Oct 18 15:40:01 ns380518 CRON[20333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:40:01 ns380518 CRON[20333]: pam_unix(cron:session): session closed for user root
+Oct 18 15:41:01 ns380518 CRON[20376]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:41:03 ns380518 CRON[20376]: pam_unix(cron:session): session closed for user root
+Oct 18 15:42:01 ns380518 CRON[20458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:42:01 ns380518 CRON[20458]: pam_unix(cron:session): session closed for user root
+Oct 18 15:43:01 ns380518 CRON[20501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:43:01 ns380518 CRON[20501]: pam_unix(cron:session): session closed for user root
+Oct 18 15:44:01 ns380518 CRON[20544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:44:01 ns380518 CRON[20544]: pam_unix(cron:session): session closed for user root
+Oct 18 15:45:01 ns380518 CRON[20587]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:45:02 ns380518 CRON[20587]: pam_unix(cron:session): session closed for user root
+Oct 18 15:46:01 ns380518 CRON[20630]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:46:01 ns380518 CRON[20630]: pam_unix(cron:session): session closed for user root
+Oct 18 15:47:01 ns380518 CRON[20673]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:47:01 ns380518 CRON[20673]: pam_unix(cron:session): session closed for user root
+Oct 18 15:48:01 ns380518 CRON[20716]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:48:02 ns380518 CRON[20716]: pam_unix(cron:session): session closed for user root
+Oct 18 15:49:01 ns380518 CRON[20759]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:49:01 ns380518 CRON[20759]: pam_unix(cron:session): session closed for user root
+Oct 18 15:50:01 ns380518 CRON[20802]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:50:01 ns380518 CRON[20802]: pam_unix(cron:session): session closed for user root
+Oct 18 15:51:01 ns380518 CRON[20845]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:51:01 ns380518 CRON[20845]: pam_unix(cron:session): session closed for user root
+Oct 18 15:52:01 ns380518 CRON[20888]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:52:02 ns380518 CRON[20888]: pam_unix(cron:session): session closed for user root
+Oct 18 15:53:01 ns380518 CRON[20931]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:53:01 ns380518 CRON[20931]: pam_unix(cron:session): session closed for user root
+Oct 18 15:54:01 ns380518 CRON[20974]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:54:01 ns380518 CRON[20974]: pam_unix(cron:session): session closed for user root
+Oct 18 15:55:01 ns380518 CRON[21017]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:55:01 ns380518 CRON[21017]: pam_unix(cron:session): session closed for user root
+Oct 18 15:56:02 ns380518 CRON[21060]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:56:02 ns380518 CRON[21060]: pam_unix(cron:session): session closed for user root
+Oct 18 15:57:01 ns380518 CRON[21103]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:57:01 ns380518 CRON[21103]: pam_unix(cron:session): session closed for user root
+Oct 18 15:58:01 ns380518 CRON[21146]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:58:01 ns380518 CRON[21146]: pam_unix(cron:session): session closed for user root
+Oct 18 15:59:01 ns380518 CRON[21189]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 15:59:02 ns380518 CRON[21189]: pam_unix(cron:session): session closed for user root
+Oct 18 16:00:01 ns380518 CRON[21232]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:00:01 ns380518 CRON[21232]: pam_unix(cron:session): session closed for user root
+Oct 18 16:01:01 ns380518 CRON[21275]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:01:01 ns380518 CRON[21275]: pam_unix(cron:session): session closed for user root
+Oct 18 16:02:01 ns380518 CRON[21318]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:02:01 ns380518 CRON[21318]: pam_unix(cron:session): session closed for user root
+Oct 18 16:03:01 ns380518 CRON[21361]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:03:02 ns380518 CRON[21361]: pam_unix(cron:session): session closed for user root
+Oct 18 16:04:01 ns380518 CRON[21404]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:04:01 ns380518 CRON[21404]: pam_unix(cron:session): session closed for user root
+Oct 18 16:05:01 ns380518 CRON[21447]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:05:01 ns380518 CRON[21447]: pam_unix(cron:session): session closed for user root
+Oct 18 16:06:01 ns380518 CRON[21490]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:06:01 ns380518 CRON[21490]: pam_unix(cron:session): session closed for user root
+Oct 18 16:07:02 ns380518 CRON[21533]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:07:02 ns380518 CRON[21533]: pam_unix(cron:session): session closed for user root
+Oct 18 16:08:01 ns380518 CRON[21576]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:08:01 ns380518 CRON[21576]: pam_unix(cron:session): session closed for user root
+Oct 18 16:09:01 ns380518 CRON[21619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:09:01 ns380518 CRON[21620]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:09:01 ns380518 CRON[21620]: pam_unix(cron:session): session closed for user root
+Oct 18 16:09:01 ns380518 CRON[21619]: pam_unix(cron:session): session closed for user root
+Oct 18 16:10:01 ns380518 CRON[21674]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:10:02 ns380518 CRON[21674]: pam_unix(cron:session): session closed for user root
+Oct 18 16:11:01 ns380518 CRON[21717]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:11:01 ns380518 CRON[21717]: pam_unix(cron:session): session closed for user root
+Oct 18 16:12:01 ns380518 CRON[21760]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:12:01 ns380518 CRON[21760]: pam_unix(cron:session): session closed for user root
+Oct 18 16:13:01 ns380518 CRON[21803]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:13:01 ns380518 CRON[21803]: pam_unix(cron:session): session closed for user root
+Oct 18 16:14:01 ns380518 CRON[21846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:14:02 ns380518 CRON[21846]: pam_unix(cron:session): session closed for user root
+Oct 18 16:15:01 ns380518 CRON[21889]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:15:01 ns380518 CRON[21889]: pam_unix(cron:session): session closed for user root
+Oct 18 16:16:01 ns380518 CRON[21932]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:16:01 ns380518 CRON[21932]: pam_unix(cron:session): session closed for user root
+Oct 18 16:17:01 ns380518 CRON[21975]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:17:01 ns380518 CRON[21976]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:17:01 ns380518 CRON[21976]: pam_unix(cron:session): session closed for user root
+Oct 18 16:17:02 ns380518 CRON[21975]: pam_unix(cron:session): session closed for user root
+Oct 18 16:18:01 ns380518 CRON[22021]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:18:01 ns380518 CRON[22021]: pam_unix(cron:session): session closed for user root
+Oct 18 16:19:01 ns380518 CRON[22064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:19:01 ns380518 CRON[22064]: pam_unix(cron:session): session closed for user root
+Oct 18 16:20:01 ns380518 CRON[22107]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:20:01 ns380518 CRON[22107]: pam_unix(cron:session): session closed for user root
+Oct 18 16:21:01 ns380518 CRON[22150]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:21:02 ns380518 CRON[22150]: pam_unix(cron:session): session closed for user root
+Oct 18 16:22:01 ns380518 CRON[22193]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:22:01 ns380518 CRON[22193]: pam_unix(cron:session): session closed for user root
+Oct 18 16:23:01 ns380518 CRON[22236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:23:01 ns380518 CRON[22236]: pam_unix(cron:session): session closed for user root
+Oct 18 16:24:01 ns380518 CRON[22279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:24:01 ns380518 CRON[22279]: pam_unix(cron:session): session closed for user root
+Oct 18 16:25:01 ns380518 CRON[22322]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:25:02 ns380518 CRON[22322]: pam_unix(cron:session): session closed for user root
+Oct 18 16:26:01 ns380518 CRON[22365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:26:01 ns380518 CRON[22365]: pam_unix(cron:session): session closed for user root
+Oct 18 16:27:01 ns380518 CRON[22408]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:27:01 ns380518 CRON[22408]: pam_unix(cron:session): session closed for user root
+Oct 18 16:28:01 ns380518 CRON[22451]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:28:02 ns380518 CRON[22451]: pam_unix(cron:session): session closed for user root
+Oct 18 16:29:01 ns380518 CRON[22494]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:29:01 ns380518 CRON[22494]: pam_unix(cron:session): session closed for user root
+Oct 18 16:30:01 ns380518 CRON[22537]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:30:01 ns380518 CRON[22537]: pam_unix(cron:session): session closed for user root
+Oct 18 16:31:01 ns380518 CRON[22580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:31:01 ns380518 CRON[22580]: pam_unix(cron:session): session closed for user root
+Oct 18 16:32:01 ns380518 CRON[22623]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:32:02 ns380518 CRON[22623]: pam_unix(cron:session): session closed for user root
+Oct 18 16:33:01 ns380518 CRON[22666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:33:01 ns380518 CRON[22666]: pam_unix(cron:session): session closed for user root
+Oct 18 16:34:01 ns380518 CRON[22709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:34:01 ns380518 CRON[22709]: pam_unix(cron:session): session closed for user root
+Oct 18 16:35:01 ns380518 CRON[22752]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:35:02 ns380518 CRON[22752]: pam_unix(cron:session): session closed for user root
+Oct 18 16:36:01 ns380518 CRON[22795]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:36:01 ns380518 CRON[22795]: pam_unix(cron:session): session closed for user root
+Oct 18 16:37:01 ns380518 CRON[22838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:37:01 ns380518 CRON[22838]: pam_unix(cron:session): session closed for user root
+Oct 18 16:38:01 ns380518 CRON[22881]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:38:01 ns380518 CRON[22881]: pam_unix(cron:session): session closed for user root
+Oct 18 16:39:01 ns380518 CRON[22924]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:39:01 ns380518 CRON[22925]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:39:02 ns380518 CRON[22925]: pam_unix(cron:session): session closed for user root
+Oct 18 16:39:02 ns380518 CRON[22924]: pam_unix(cron:session): session closed for user root
+Oct 18 16:40:01 ns380518 CRON[22979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:40:01 ns380518 CRON[22979]: pam_unix(cron:session): session closed for user root
+Oct 18 16:41:01 ns380518 CRON[23022]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:41:03 ns380518 CRON[23022]: pam_unix(cron:session): session closed for user root
+Oct 18 16:42:01 ns380518 CRON[23104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:42:01 ns380518 CRON[23104]: pam_unix(cron:session): session closed for user root
+Oct 18 16:43:01 ns380518 CRON[23147]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:43:01 ns380518 CRON[23147]: pam_unix(cron:session): session closed for user root
+Oct 18 16:44:01 ns380518 CRON[23190]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:44:02 ns380518 CRON[23190]: pam_unix(cron:session): session closed for user root
+Oct 18 16:45:01 ns380518 CRON[23233]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:45:01 ns380518 CRON[23233]: pam_unix(cron:session): session closed for user root
+Oct 18 16:46:01 ns380518 CRON[23276]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:46:01 ns380518 CRON[23276]: pam_unix(cron:session): session closed for user root
+Oct 18 16:47:01 ns380518 CRON[23319]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:47:01 ns380518 CRON[23319]: pam_unix(cron:session): session closed for user root
+Oct 18 16:48:01 ns380518 CRON[23362]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:48:02 ns380518 CRON[23362]: pam_unix(cron:session): session closed for user root
+Oct 18 16:49:01 ns380518 CRON[23405]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:49:01 ns380518 CRON[23405]: pam_unix(cron:session): session closed for user root
+Oct 18 16:50:01 ns380518 CRON[23448]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:50:01 ns380518 CRON[23448]: pam_unix(cron:session): session closed for user root
+Oct 18 16:51:01 ns380518 CRON[23491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:51:02 ns380518 CRON[23491]: pam_unix(cron:session): session closed for user root
+Oct 18 16:52:01 ns380518 CRON[23534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:52:01 ns380518 CRON[23534]: pam_unix(cron:session): session closed for user root
+Oct 18 16:53:01 ns380518 CRON[23577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:53:01 ns380518 CRON[23577]: pam_unix(cron:session): session closed for user root
+Oct 18 16:54:01 ns380518 CRON[23620]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:54:01 ns380518 CRON[23620]: pam_unix(cron:session): session closed for user root
+Oct 18 16:55:01 ns380518 CRON[23663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:55:02 ns380518 CRON[23663]: pam_unix(cron:session): session closed for user root
+Oct 18 16:56:01 ns380518 CRON[23706]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:56:01 ns380518 CRON[23706]: pam_unix(cron:session): session closed for user root
+Oct 18 16:57:01 ns380518 CRON[23749]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:57:01 ns380518 CRON[23749]: pam_unix(cron:session): session closed for user root
+Oct 18 16:58:01 ns380518 CRON[23792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:58:01 ns380518 CRON[23792]: pam_unix(cron:session): session closed for user root
+Oct 18 16:59:01 ns380518 CRON[23835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 16:59:02 ns380518 CRON[23835]: pam_unix(cron:session): session closed for user root
+Oct 18 17:00:01 ns380518 CRON[23878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:00:01 ns380518 CRON[23878]: pam_unix(cron:session): session closed for user root
+Oct 18 17:01:01 ns380518 CRON[23921]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:01:01 ns380518 CRON[23921]: pam_unix(cron:session): session closed for user root
+Oct 18 17:02:01 ns380518 CRON[23964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:02:02 ns380518 CRON[23964]: pam_unix(cron:session): session closed for user root
+Oct 18 17:03:01 ns380518 CRON[24007]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:03:01 ns380518 CRON[24007]: pam_unix(cron:session): session closed for user root
+Oct 18 17:04:01 ns380518 CRON[24050]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:04:01 ns380518 CRON[24050]: pam_unix(cron:session): session closed for user root
+Oct 18 17:05:01 ns380518 CRON[24093]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:05:01 ns380518 CRON[24093]: pam_unix(cron:session): session closed for user root
+Oct 18 17:06:01 ns380518 CRON[24136]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:06:02 ns380518 CRON[24136]: pam_unix(cron:session): session closed for user root
+Oct 18 17:07:01 ns380518 CRON[24179]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:07:01 ns380518 CRON[24179]: pam_unix(cron:session): session closed for user root
+Oct 18 17:08:01 ns380518 CRON[24222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:08:01 ns380518 CRON[24222]: pam_unix(cron:session): session closed for user root
+Oct 18 17:09:01 ns380518 CRON[24265]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:09:01 ns380518 CRON[24266]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:09:01 ns380518 CRON[24266]: pam_unix(cron:session): session closed for user root
+Oct 18 17:09:02 ns380518 CRON[24265]: pam_unix(cron:session): session closed for user root
+Oct 18 17:10:01 ns380518 CRON[24320]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:10:01 ns380518 CRON[24320]: pam_unix(cron:session): session closed for user root
+Oct 18 17:11:01 ns380518 CRON[24363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:11:01 ns380518 CRON[24363]: pam_unix(cron:session): session closed for user root
+Oct 18 17:12:01 ns380518 CRON[24406]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:12:01 ns380518 CRON[24406]: pam_unix(cron:session): session closed for user root
+Oct 18 17:13:01 ns380518 CRON[24449]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:13:02 ns380518 CRON[24449]: pam_unix(cron:session): session closed for user root
+Oct 18 17:14:01 ns380518 CRON[24492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:14:01 ns380518 CRON[24492]: pam_unix(cron:session): session closed for user root
+Oct 18 17:15:01 ns380518 CRON[24535]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:15:01 ns380518 CRON[24535]: pam_unix(cron:session): session closed for user root
+Oct 18 17:16:01 ns380518 CRON[24578]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:16:01 ns380518 CRON[24578]: pam_unix(cron:session): session closed for user root
+Oct 18 17:17:01 ns380518 CRON[24621]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:17:01 ns380518 CRON[24622]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:17:01 ns380518 CRON[24622]: pam_unix(cron:session): session closed for user root
+Oct 18 17:17:02 ns380518 CRON[24621]: pam_unix(cron:session): session closed for user root
+Oct 18 17:18:01 ns380518 CRON[24667]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:18:01 ns380518 CRON[24667]: pam_unix(cron:session): session closed for user root
+Oct 18 17:19:01 ns380518 CRON[24710]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:19:01 ns380518 CRON[24710]: pam_unix(cron:session): session closed for user root
+Oct 18 17:20:01 ns380518 CRON[24753]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:20:02 ns380518 CRON[24753]: pam_unix(cron:session): session closed for user root
+Oct 18 17:21:01 ns380518 CRON[24796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:21:01 ns380518 CRON[24796]: pam_unix(cron:session): session closed for user root
+Oct 18 17:22:01 ns380518 CRON[24839]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:22:01 ns380518 CRON[24839]: pam_unix(cron:session): session closed for user root
+Oct 18 17:23:01 ns380518 CRON[24882]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:23:01 ns380518 CRON[24882]: pam_unix(cron:session): session closed for user root
+Oct 18 17:24:01 ns380518 CRON[24925]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:24:02 ns380518 CRON[24925]: pam_unix(cron:session): session closed for user root
+Oct 18 17:25:01 ns380518 CRON[24968]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:25:01 ns380518 CRON[24968]: pam_unix(cron:session): session closed for user root
+Oct 18 17:26:01 ns380518 CRON[25011]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:26:01 ns380518 CRON[25011]: pam_unix(cron:session): session closed for user root
+Oct 18 17:27:01 ns380518 CRON[25054]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:27:01 ns380518 CRON[25054]: pam_unix(cron:session): session closed for user root
+Oct 18 17:28:01 ns380518 CRON[25097]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:28:02 ns380518 CRON[25097]: pam_unix(cron:session): session closed for user root
+Oct 18 17:29:01 ns380518 CRON[25140]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:29:01 ns380518 CRON[25140]: pam_unix(cron:session): session closed for user root
+Oct 18 17:30:01 ns380518 CRON[25183]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:30:01 ns380518 CRON[25183]: pam_unix(cron:session): session closed for user root
+Oct 18 17:31:01 ns380518 CRON[25226]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:31:02 ns380518 CRON[25226]: pam_unix(cron:session): session closed for user root
+Oct 18 17:32:01 ns380518 CRON[25269]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:32:01 ns380518 CRON[25269]: pam_unix(cron:session): session closed for user root
+Oct 18 17:33:01 ns380518 CRON[25312]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:33:01 ns380518 CRON[25312]: pam_unix(cron:session): session closed for user root
+Oct 18 17:34:01 ns380518 CRON[25355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:34:01 ns380518 CRON[25355]: pam_unix(cron:session): session closed for user root
+Oct 18 17:35:01 ns380518 CRON[25398]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:35:02 ns380518 CRON[25398]: pam_unix(cron:session): session closed for user root
+Oct 18 17:36:01 ns380518 CRON[25441]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:36:01 ns380518 CRON[25441]: pam_unix(cron:session): session closed for user root
+Oct 18 17:37:01 ns380518 CRON[25484]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:37:01 ns380518 CRON[25484]: pam_unix(cron:session): session closed for user root
+Oct 18 17:38:01 ns380518 CRON[25527]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:38:01 ns380518 CRON[25527]: pam_unix(cron:session): session closed for user root
+Oct 18 17:39:01 ns380518 CRON[25570]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:39:01 ns380518 CRON[25571]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:39:02 ns380518 CRON[25571]: pam_unix(cron:session): session closed for user root
+Oct 18 17:39:02 ns380518 CRON[25570]: pam_unix(cron:session): session closed for user root
+Oct 18 17:40:01 ns380518 CRON[25625]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:40:01 ns380518 CRON[25625]: pam_unix(cron:session): session closed for user root
+Oct 18 17:41:01 ns380518 CRON[25668]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:41:03 ns380518 CRON[25668]: pam_unix(cron:session): session closed for user root
+Oct 18 17:42:01 ns380518 CRON[25750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:42:01 ns380518 CRON[25750]: pam_unix(cron:session): session closed for user root
+Oct 18 17:43:01 ns380518 CRON[25793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:43:01 ns380518 CRON[25793]: pam_unix(cron:session): session closed for user root
+Oct 18 17:44:01 ns380518 CRON[25836]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:44:02 ns380518 CRON[25836]: pam_unix(cron:session): session closed for user root
+Oct 18 17:45:01 ns380518 CRON[25879]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:45:01 ns380518 CRON[25879]: pam_unix(cron:session): session closed for user root
+Oct 18 17:46:01 ns380518 CRON[25922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:46:01 ns380518 CRON[25922]: pam_unix(cron:session): session closed for user root
+Oct 18 17:47:01 ns380518 CRON[25965]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:47:02 ns380518 CRON[25965]: pam_unix(cron:session): session closed for user root
+Oct 18 17:48:01 ns380518 CRON[26008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:48:01 ns380518 CRON[26008]: pam_unix(cron:session): session closed for user root
+Oct 18 17:49:01 ns380518 CRON[26051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:49:01 ns380518 CRON[26051]: pam_unix(cron:session): session closed for user root
+Oct 18 17:50:01 ns380518 CRON[26094]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:50:01 ns380518 CRON[26094]: pam_unix(cron:session): session closed for user root
+Oct 18 17:51:01 ns380518 CRON[26137]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:51:02 ns380518 CRON[26137]: pam_unix(cron:session): session closed for user root
+Oct 18 17:52:01 ns380518 CRON[26180]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:52:01 ns380518 CRON[26180]: pam_unix(cron:session): session closed for user root
+Oct 18 17:53:01 ns380518 CRON[26223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:53:01 ns380518 CRON[26223]: pam_unix(cron:session): session closed for user root
+Oct 18 17:54:01 ns380518 CRON[26266]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:54:01 ns380518 CRON[26266]: pam_unix(cron:session): session closed for user root
+Oct 18 17:55:01 ns380518 CRON[26309]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:55:02 ns380518 CRON[26309]: pam_unix(cron:session): session closed for user root
+Oct 18 17:56:01 ns380518 CRON[26352]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:56:01 ns380518 CRON[26352]: pam_unix(cron:session): session closed for user root
+Oct 18 17:57:01 ns380518 CRON[26395]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:57:01 ns380518 CRON[26395]: pam_unix(cron:session): session closed for user root
+Oct 18 17:58:01 ns380518 CRON[26438]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:58:02 ns380518 CRON[26438]: pam_unix(cron:session): session closed for user root
+Oct 18 17:59:01 ns380518 CRON[26481]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 17:59:01 ns380518 CRON[26481]: pam_unix(cron:session): session closed for user root
+Oct 18 18:00:01 ns380518 CRON[26524]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:00:01 ns380518 CRON[26524]: pam_unix(cron:session): session closed for user root
+Oct 18 18:01:01 ns380518 CRON[26567]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:01:01 ns380518 CRON[26567]: pam_unix(cron:session): session closed for user root
+Oct 18 18:02:01 ns380518 CRON[26610]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:02:02 ns380518 CRON[26610]: pam_unix(cron:session): session closed for user root
+Oct 18 18:03:01 ns380518 CRON[26653]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:03:01 ns380518 CRON[26653]: pam_unix(cron:session): session closed for user root
+Oct 18 18:04:01 ns380518 CRON[26696]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:04:01 ns380518 CRON[26696]: pam_unix(cron:session): session closed for user root
+Oct 18 18:05:01 ns380518 CRON[26739]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:05:01 ns380518 CRON[26739]: pam_unix(cron:session): session closed for user root
+Oct 18 18:06:01 ns380518 CRON[26782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:06:02 ns380518 CRON[26782]: pam_unix(cron:session): session closed for user root
+Oct 18 18:07:01 ns380518 CRON[26825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:07:01 ns380518 CRON[26825]: pam_unix(cron:session): session closed for user root
+Oct 18 18:08:01 ns380518 CRON[26868]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:08:01 ns380518 CRON[26868]: pam_unix(cron:session): session closed for user root
+Oct 18 18:09:01 ns380518 CRON[26911]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:09:01 ns380518 CRON[26912]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:09:01 ns380518 CRON[26912]: pam_unix(cron:session): session closed for user root
+Oct 18 18:09:02 ns380518 CRON[26911]: pam_unix(cron:session): session closed for user root
+Oct 18 18:10:01 ns380518 CRON[26966]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:10:01 ns380518 CRON[26966]: pam_unix(cron:session): session closed for user root
+Oct 18 18:11:01 ns380518 CRON[27009]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:11:01 ns380518 CRON[27009]: pam_unix(cron:session): session closed for user root
+Oct 18 18:12:01 ns380518 CRON[27052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:12:01 ns380518 CRON[27052]: pam_unix(cron:session): session closed for user root
+Oct 18 18:13:01 ns380518 CRON[27095]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:13:02 ns380518 CRON[27095]: pam_unix(cron:session): session closed for user root
+Oct 18 18:14:01 ns380518 CRON[27138]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:14:01 ns380518 CRON[27138]: pam_unix(cron:session): session closed for user root
+Oct 18 18:15:01 ns380518 CRON[27181]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:15:01 ns380518 CRON[27181]: pam_unix(cron:session): session closed for user root
+Oct 18 18:16:01 ns380518 CRON[27224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:16:02 ns380518 CRON[27224]: pam_unix(cron:session): session closed for user root
+Oct 18 18:17:02 ns380518 CRON[27267]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:17:02 ns380518 CRON[27268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:17:02 ns380518 CRON[27268]: pam_unix(cron:session): session closed for user root
+Oct 18 18:17:02 ns380518 CRON[27267]: pam_unix(cron:session): session closed for user root
+Oct 18 18:18:01 ns380518 CRON[27313]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:18:01 ns380518 CRON[27313]: pam_unix(cron:session): session closed for user root
+Oct 18 18:19:01 ns380518 CRON[27356]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:19:01 ns380518 CRON[27356]: pam_unix(cron:session): session closed for user root
+Oct 18 18:20:01 ns380518 CRON[27399]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:20:02 ns380518 CRON[27399]: pam_unix(cron:session): session closed for user root
+Oct 18 18:21:01 ns380518 CRON[27442]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:21:01 ns380518 CRON[27442]: pam_unix(cron:session): session closed for user root
+Oct 18 18:22:01 ns380518 CRON[27486]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:22:01 ns380518 CRON[27486]: pam_unix(cron:session): session closed for user root
+Oct 18 18:23:01 ns380518 CRON[27529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:23:01 ns380518 CRON[27529]: pam_unix(cron:session): session closed for user root
+Oct 18 18:24:01 ns380518 CRON[27572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:24:02 ns380518 CRON[27572]: pam_unix(cron:session): session closed for user root
+Oct 18 18:25:01 ns380518 CRON[27615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:25:01 ns380518 CRON[27615]: pam_unix(cron:session): session closed for user root
+Oct 18 18:26:01 ns380518 CRON[27658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:26:01 ns380518 CRON[27658]: pam_unix(cron:session): session closed for user root
+Oct 18 18:27:01 ns380518 CRON[27701]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:27:02 ns380518 CRON[27701]: pam_unix(cron:session): session closed for user root
+Oct 18 18:28:01 ns380518 CRON[27744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:28:01 ns380518 CRON[27744]: pam_unix(cron:session): session closed for user root
+Oct 18 18:29:01 ns380518 CRON[27787]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:29:01 ns380518 CRON[27787]: pam_unix(cron:session): session closed for user root
+Oct 18 18:30:01 ns380518 CRON[27830]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:30:01 ns380518 CRON[27830]: pam_unix(cron:session): session closed for user root
+Oct 18 18:31:01 ns380518 CRON[27873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:31:02 ns380518 CRON[27873]: pam_unix(cron:session): session closed for user root
+Oct 18 18:32:01 ns380518 CRON[27916]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:32:01 ns380518 CRON[27916]: pam_unix(cron:session): session closed for user root
+Oct 18 18:33:01 ns380518 CRON[27959]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:33:01 ns380518 CRON[27959]: pam_unix(cron:session): session closed for user root
+Oct 18 18:34:01 ns380518 CRON[28002]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:34:01 ns380518 CRON[28002]: pam_unix(cron:session): session closed for user root
+Oct 18 18:35:01 ns380518 CRON[28045]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:35:02 ns380518 CRON[28045]: pam_unix(cron:session): session closed for user root
+Oct 18 18:36:01 ns380518 CRON[28088]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:36:01 ns380518 CRON[28088]: pam_unix(cron:session): session closed for user root
+Oct 18 18:37:01 ns380518 CRON[28131]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:37:01 ns380518 CRON[28131]: pam_unix(cron:session): session closed for user root
+Oct 18 18:38:01 ns380518 CRON[28174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:38:02 ns380518 CRON[28174]: pam_unix(cron:session): session closed for user root
+Oct 18 18:39:01 ns380518 CRON[28217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:39:01 ns380518 CRON[28218]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:39:01 ns380518 CRON[28218]: pam_unix(cron:session): session closed for user root
+Oct 18 18:39:01 ns380518 CRON[28217]: pam_unix(cron:session): session closed for user root
+Oct 18 18:40:01 ns380518 CRON[28272]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:40:01 ns380518 CRON[28272]: pam_unix(cron:session): session closed for user root
+Oct 18 18:41:01 ns380518 CRON[28315]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:41:03 ns380518 CRON[28315]: pam_unix(cron:session): session closed for user root
+Oct 18 18:42:01 ns380518 CRON[28397]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:42:01 ns380518 CRON[28397]: pam_unix(cron:session): session closed for user root
+Oct 18 18:43:01 ns380518 CRON[28440]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:43:01 ns380518 CRON[28440]: pam_unix(cron:session): session closed for user root
+Oct 18 18:44:01 ns380518 CRON[28483]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:44:02 ns380518 CRON[28483]: pam_unix(cron:session): session closed for user root
+Oct 18 18:45:01 ns380518 CRON[28526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:45:01 ns380518 CRON[28526]: pam_unix(cron:session): session closed for user root
+Oct 18 18:46:01 ns380518 CRON[28569]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:46:01 ns380518 CRON[28569]: pam_unix(cron:session): session closed for user root
+Oct 18 18:47:01 ns380518 CRON[28612]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:47:02 ns380518 CRON[28612]: pam_unix(cron:session): session closed for user root
+Oct 18 18:48:01 ns380518 CRON[28655]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:48:01 ns380518 CRON[28655]: pam_unix(cron:session): session closed for user root
+Oct 18 18:49:01 ns380518 CRON[28698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:49:01 ns380518 CRON[28698]: pam_unix(cron:session): session closed for user root
+Oct 18 18:50:01 ns380518 CRON[28741]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:50:01 ns380518 CRON[28741]: pam_unix(cron:session): session closed for user root
+Oct 18 18:51:01 ns380518 CRON[28784]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:51:02 ns380518 CRON[28784]: pam_unix(cron:session): session closed for user root
+Oct 18 18:52:01 ns380518 CRON[28827]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:52:01 ns380518 CRON[28827]: pam_unix(cron:session): session closed for user root
+Oct 18 18:53:01 ns380518 CRON[28870]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:53:01 ns380518 CRON[28870]: pam_unix(cron:session): session closed for user root
+Oct 18 18:54:01 ns380518 CRON[28913]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:54:02 ns380518 CRON[28913]: pam_unix(cron:session): session closed for user root
+Oct 18 18:55:01 ns380518 CRON[28956]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:55:01 ns380518 CRON[28956]: pam_unix(cron:session): session closed for user root
+Oct 18 18:56:01 ns380518 CRON[28999]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:56:01 ns380518 CRON[28999]: pam_unix(cron:session): session closed for user root
+Oct 18 18:57:01 ns380518 CRON[29042]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:57:01 ns380518 CRON[29042]: pam_unix(cron:session): session closed for user root
+Oct 18 18:58:01 ns380518 CRON[29085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:58:02 ns380518 CRON[29085]: pam_unix(cron:session): session closed for user root
+Oct 18 18:59:01 ns380518 CRON[29128]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 18:59:01 ns380518 CRON[29128]: pam_unix(cron:session): session closed for user root
+Oct 18 19:00:01 ns380518 CRON[29171]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:00:01 ns380518 CRON[29171]: pam_unix(cron:session): session closed for user root
+Oct 18 19:01:01 ns380518 CRON[29214]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:01:01 ns380518 CRON[29214]: pam_unix(cron:session): session closed for user root
+Oct 18 19:02:01 ns380518 CRON[29257]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:02:02 ns380518 CRON[29257]: pam_unix(cron:session): session closed for user root
+Oct 18 19:03:01 ns380518 CRON[29300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:03:01 ns380518 CRON[29300]: pam_unix(cron:session): session closed for user root
+Oct 18 19:04:01 ns380518 CRON[29343]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:04:01 ns380518 CRON[29343]: pam_unix(cron:session): session closed for user root
+Oct 18 19:05:01 ns380518 CRON[29386]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:05:02 ns380518 CRON[29386]: pam_unix(cron:session): session closed for user root
+Oct 18 19:06:01 ns380518 CRON[29429]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:06:01 ns380518 CRON[29429]: pam_unix(cron:session): session closed for user root
+Oct 18 19:07:01 ns380518 CRON[29472]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:07:01 ns380518 CRON[29472]: pam_unix(cron:session): session closed for user root
+Oct 18 19:08:01 ns380518 CRON[29515]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:08:01 ns380518 CRON[29515]: pam_unix(cron:session): session closed for user root
+Oct 18 19:09:01 ns380518 CRON[29558]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:09:01 ns380518 CRON[29559]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:09:02 ns380518 CRON[29559]: pam_unix(cron:session): session closed for user root
+Oct 18 19:09:02 ns380518 CRON[29558]: pam_unix(cron:session): session closed for user root
+Oct 18 19:10:01 ns380518 CRON[29613]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:10:01 ns380518 CRON[29613]: pam_unix(cron:session): session closed for user root
+Oct 18 19:11:01 ns380518 CRON[29656]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:11:01 ns380518 CRON[29656]: pam_unix(cron:session): session closed for user root
+Oct 18 19:11:27 ns380518 sshd[29699]: Connection closed by 77.201.114.33 [preauth]
+Oct 18 19:11:31 ns380518 sshd[29701]: Accepted password for leo from 77.201.114.33 port 58578 ssh2
+Oct 18 19:11:31 ns380518 sshd[29701]: pam_unix(sshd:session): session opened for user leo by (uid=0)
+Oct 18 19:12:01 ns380518 CRON[29710]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:12:02 ns380518 CRON[29710]: pam_unix(cron:session): session closed for user root
+Oct 18 19:12:05 ns380518 su[29709]: Successful su for root by leo
+Oct 18 19:12:05 ns380518 su[29709]: + /dev/pts/1 leo:root
+Oct 18 19:12:05 ns380518 su[29709]: pam_unix(su:session): session opened for user root by leo(uid=1000)
+Oct 18 19:12:53 ns380518 useradd[29929]: new user: name=mongodb, UID=107, GID=65534, home=/home/mongodb, shell=/bin/false
+Oct 18 19:12:53 ns380518 usermod[29934]: change user 'mongodb' password
+Oct 18 19:12:53 ns380518 chage[29939]: changed password expiry for mongodb
+Oct 18 19:12:53 ns380518 groupadd[29943]: group added to /etc/group: name=mongodb, GID=112
+Oct 18 19:12:53 ns380518 groupadd[29943]: group added to /etc/gshadow: name=mongodb
+Oct 18 19:12:53 ns380518 groupadd[29943]: new group: name=mongodb, GID=112
+Oct 18 19:12:53 ns380518 gpasswd[29948]: user mongodb added by root to group mongodb
+Oct 18 19:13:01 ns380518 CRON[29994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:13:01 ns380518 CRON[29994]: pam_unix(cron:session): session closed for user root
+Oct 18 19:14:01 ns380518 CRON[30101]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:14:01 ns380518 CRON[30101]: pam_unix(cron:session): session closed for user root
+Oct 18 19:15:01 ns380518 CRON[30144]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:15:01 ns380518 CRON[30144]: pam_unix(cron:session): session closed for user root
+Oct 18 19:16:01 ns380518 CRON[30187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:16:02 ns380518 CRON[30187]: pam_unix(cron:session): session closed for user root
+Oct 18 19:17:01 ns380518 CRON[30230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:17:01 ns380518 CRON[30231]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:17:01 ns380518 CRON[30231]: pam_unix(cron:session): session closed for user root
+Oct 18 19:17:01 ns380518 CRON[30230]: pam_unix(cron:session): session closed for user root
+Oct 18 19:18:01 ns380518 CRON[30276]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:18:01 ns380518 CRON[30276]: pam_unix(cron:session): session closed for user root
+Oct 18 19:19:01 ns380518 CRON[30319]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:19:01 ns380518 CRON[30319]: pam_unix(cron:session): session closed for user root
+Oct 18 19:20:01 ns380518 CRON[30362]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:20:02 ns380518 CRON[30362]: pam_unix(cron:session): session closed for user root
+Oct 18 19:21:01 ns380518 CRON[30405]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:21:01 ns380518 CRON[30405]: pam_unix(cron:session): session closed for user root
+Oct 18 19:22:01 ns380518 CRON[30448]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:22:01 ns380518 CRON[30448]: pam_unix(cron:session): session closed for user root
+Oct 18 19:23:01 ns380518 CRON[30491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:23:02 ns380518 CRON[30491]: pam_unix(cron:session): session closed for user root
+Oct 18 19:24:01 ns380518 CRON[30534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:24:01 ns380518 CRON[30534]: pam_unix(cron:session): session closed for user root
+Oct 18 19:25:01 ns380518 CRON[30577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:25:01 ns380518 CRON[30577]: pam_unix(cron:session): session closed for user root
+Oct 18 19:26:01 ns380518 CRON[30620]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:26:01 ns380518 CRON[30620]: pam_unix(cron:session): session closed for user root
+Oct 18 19:27:01 ns380518 CRON[30663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:27:02 ns380518 CRON[30663]: pam_unix(cron:session): session closed for user root
+Oct 18 19:28:01 ns380518 CRON[30706]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:28:01 ns380518 CRON[30706]: pam_unix(cron:session): session closed for user root
+Oct 18 19:29:01 ns380518 CRON[30749]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:29:01 ns380518 CRON[30749]: pam_unix(cron:session): session closed for user root
+Oct 18 19:29:13 ns380518 su[29709]: pam_unix(su:session): session closed for user root
+Oct 18 19:29:14 ns380518 sshd[29703]: Received disconnect from 77.201.114.33: 11: disconnected by user
+Oct 18 19:29:14 ns380518 sshd[29701]: pam_unix(sshd:session): session closed for user leo
+Oct 18 19:30:01 ns380518 CRON[30793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:30:01 ns380518 CRON[30793]: pam_unix(cron:session): session closed for user root
+Oct 18 19:31:01 ns380518 CRON[30836]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:31:02 ns380518 CRON[30836]: pam_unix(cron:session): session closed for user root
+Oct 18 19:32:01 ns380518 CRON[30879]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:32:01 ns380518 CRON[30879]: pam_unix(cron:session): session closed for user root
+Oct 18 19:33:01 ns380518 CRON[30922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:33:01 ns380518 CRON[30922]: pam_unix(cron:session): session closed for user root
+Oct 18 19:34:01 ns380518 CRON[30965]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:34:02 ns380518 CRON[30965]: pam_unix(cron:session): session closed for user root
+Oct 18 19:35:01 ns380518 CRON[31008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:35:01 ns380518 CRON[31008]: pam_unix(cron:session): session closed for user root
+Oct 18 19:36:01 ns380518 CRON[31051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:36:01 ns380518 CRON[31051]: pam_unix(cron:session): session closed for user root
+Oct 18 19:37:01 ns380518 CRON[31094]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:37:01 ns380518 CRON[31094]: pam_unix(cron:session): session closed for user root
+Oct 18 19:38:01 ns380518 CRON[31137]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:38:02 ns380518 CRON[31137]: pam_unix(cron:session): session closed for user root
+Oct 18 19:39:01 ns380518 CRON[31180]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:39:01 ns380518 CRON[31181]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:39:01 ns380518 CRON[31181]: pam_unix(cron:session): session closed for user root
+Oct 18 19:39:01 ns380518 CRON[31180]: pam_unix(cron:session): session closed for user root
+Oct 18 19:40:01 ns380518 CRON[31235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:40:01 ns380518 CRON[31235]: pam_unix(cron:session): session closed for user root
+Oct 18 19:41:01 ns380518 CRON[31278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:41:03 ns380518 CRON[31278]: pam_unix(cron:session): session closed for user root
+Oct 18 19:42:01 ns380518 CRON[31361]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:42:01 ns380518 CRON[31361]: pam_unix(cron:session): session closed for user root
+Oct 18 19:43:01 ns380518 CRON[31404]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:43:02 ns380518 CRON[31404]: pam_unix(cron:session): session closed for user root
+Oct 18 19:44:01 ns380518 CRON[31447]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:44:01 ns380518 CRON[31447]: pam_unix(cron:session): session closed for user root
+Oct 18 19:45:01 ns380518 CRON[31491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:45:01 ns380518 CRON[31491]: pam_unix(cron:session): session closed for user root
+Oct 18 19:46:01 ns380518 CRON[31534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:46:01 ns380518 CRON[31534]: pam_unix(cron:session): session closed for user root
+Oct 18 19:47:01 ns380518 CRON[31577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:47:02 ns380518 CRON[31577]: pam_unix(cron:session): session closed for user root
+Oct 18 19:48:01 ns380518 CRON[31620]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:48:01 ns380518 CRON[31620]: pam_unix(cron:session): session closed for user root
+Oct 18 19:49:01 ns380518 CRON[31663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:49:01 ns380518 CRON[31663]: pam_unix(cron:session): session closed for user root
+Oct 18 19:50:01 ns380518 CRON[31706]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:50:02 ns380518 CRON[31706]: pam_unix(cron:session): session closed for user root
+Oct 18 19:51:01 ns380518 CRON[31749]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:51:01 ns380518 CRON[31749]: pam_unix(cron:session): session closed for user root
+Oct 18 19:52:01 ns380518 CRON[31792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:52:01 ns380518 CRON[31792]: pam_unix(cron:session): session closed for user root
+Oct 18 19:53:01 ns380518 CRON[31835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:53:01 ns380518 CRON[31835]: pam_unix(cron:session): session closed for user root
+Oct 18 19:54:01 ns380518 CRON[31879]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:54:02 ns380518 CRON[31879]: pam_unix(cron:session): session closed for user root
+Oct 18 19:55:01 ns380518 CRON[31922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:55:01 ns380518 CRON[31922]: pam_unix(cron:session): session closed for user root
+Oct 18 19:56:01 ns380518 CRON[31965]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:56:01 ns380518 CRON[31965]: pam_unix(cron:session): session closed for user root
+Oct 18 19:57:01 ns380518 CRON[32008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:57:01 ns380518 CRON[32008]: pam_unix(cron:session): session closed for user root
+Oct 18 19:58:01 ns380518 CRON[32051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:58:02 ns380518 CRON[32051]: pam_unix(cron:session): session closed for user root
+Oct 18 19:59:01 ns380518 CRON[32094]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 19:59:01 ns380518 CRON[32094]: pam_unix(cron:session): session closed for user root
+Oct 18 20:00:01 ns380518 CRON[32137]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:00:01 ns380518 CRON[32137]: pam_unix(cron:session): session closed for user root
+Oct 18 20:01:01 ns380518 CRON[32180]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:01:02 ns380518 CRON[32180]: pam_unix(cron:session): session closed for user root
+Oct 18 20:02:01 ns380518 CRON[32223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:02:01 ns380518 CRON[32223]: pam_unix(cron:session): session closed for user root
+Oct 18 20:03:01 ns380518 CRON[32266]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:03:01 ns380518 CRON[32266]: pam_unix(cron:session): session closed for user root
+Oct 18 20:03:39 ns380518 sshd[32309]: Connection closed by 77.201.114.33 [preauth]
+Oct 18 20:03:44 ns380518 sshd[32311]: Accepted password for leo from 77.201.114.33 port 59037 ssh2
+Oct 18 20:03:44 ns380518 sshd[32311]: pam_unix(sshd:session): session opened for user leo by (uid=0)
+Oct 18 20:03:46 ns380518 sshd[32313]: Received disconnect from 77.201.114.33: 11: disconnected by user
+Oct 18 20:03:46 ns380518 sshd[32311]: pam_unix(sshd:session): session closed for user leo
+Oct 18 20:03:50 ns380518 sshd[32320]: Accepted password for leo from 77.201.114.33 port 59038 ssh2
+Oct 18 20:03:50 ns380518 sshd[32320]: pam_unix(sshd:session): session opened for user leo by (uid=0)
+Oct 18 20:04:01 ns380518 CRON[32329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:04:01 ns380518 CRON[32329]: pam_unix(cron:session): session closed for user root
+Oct 18 20:04:07 ns380518 su[32328]: pam_unix(su:auth): authentication failure; logname=leo uid=1000 euid=0 tty=/dev/pts/1 ruser=leo rhost=  user=root
+Oct 18 20:04:08 ns380518 su[32328]: pam_authenticate: Authentication failure
+Oct 18 20:04:08 ns380518 su[32328]: FAILED su for root by leo
+Oct 18 20:04:08 ns380518 su[32328]: - /dev/pts/1 leo:root
+Oct 18 20:04:22 ns380518 su[32372]: Successful su for root by leo
+Oct 18 20:04:22 ns380518 su[32372]: + /dev/pts/1 leo:root
+Oct 18 20:04:22 ns380518 su[32372]: pam_unix(su:session): session opened for user root by leo(uid=1000)
+Oct 18 20:05:01 ns380518 CRON[32376]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:05:02 ns380518 CRON[32376]: pam_unix(cron:session): session closed for user root
+Oct 18 20:06:01 ns380518 CRON[32420]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:06:01 ns380518 CRON[32420]: pam_unix(cron:session): session closed for user root
+Oct 18 20:07:01 ns380518 CRON[32464]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:07:01 ns380518 CRON[32464]: pam_unix(cron:session): session closed for user root
+Oct 18 20:08:01 ns380518 CRON[32510]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 18 20:08:02 ns380518 CRON[32510]: pam_unix(cron:session): session closed for user root
