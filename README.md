@@ -1,5 +1,5 @@
-Guard
+Sherlock
 =====
 
-Guard is a log analyser.
+Sherlock is a little log viewer.
 
